@@ -1,0 +1,2105 @@
+06-25 05:52:04.454 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 05:52:04.471 00002 APP: onCreate() 
+06-25 05:52:04.472 00002 OMADM_OMADM: initAppData
+06-25 05:52:04.484 00002 OMADM_OMADM: defaultServer == null, set defaultServer = sprint:1
+06-25 05:52:05.036 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+06-25 05:52:05.041 00002 OMADM_OemService: onCreate
+06-25 05:52:05.102 00002 OMADM_OemService: onStartCommand
+06-25 05:52:05.105 00002 OMADM_OemService: OemBroadcastReceiver action = null
+06-25 01:52:14.519 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:52:14.551 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+06-25 01:52:14.561 00002 OMADM_SimStateReceiver: the last number is null
+06-25 01:52:14.586 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:14.588 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+06-25 01:52:14.589 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+06-25 01:52:14.617 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+06-25 01:52:14.624 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:14.629 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:14.634 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+06-25 01:52:14.635 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+06-25 01:52:14.661 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:14.663 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+06-25 01:52:14.664 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+06-25 01:52:14.665 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:14.668 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+06-25 01:52:14.669 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+06-25 01:52:14.669 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+06-25 01:52:14.670 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+06-25 01:52:14.690 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:14.714 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:14.729 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-25 01:52:32.109 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:52:32.120 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+06-25 01:52:32.121 00002 OMADM_SimStateReceiver: the last number is null
+06-25 01:52:32.130 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:32.131 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+06-25 01:52:32.132 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+06-25 01:52:32.147 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+06-25 01:52:32.154 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:32.158 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:32.166 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+06-25 01:52:32.166 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+06-25 01:52:32.171 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:32.173 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+06-25 01:52:32.174 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+06-25 01:52:32.176 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:32.178 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+06-25 01:52:32.179 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+06-25 01:52:32.179 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+06-25 01:52:32.180 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+06-25 01:52:32.187 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:32.190 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:32.192 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-25 01:52:35.356 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:52:35.363 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+06-25 01:52:35.364 00002 OMADM_SimStateReceiver: the last number is null
+06-25 01:52:35.370 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:35.371 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+06-25 01:52:35.371 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+06-25 01:52:35.377 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+06-25 01:52:35.382 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:35.384 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:35.386 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+06-25 01:52:35.387 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+06-25 01:52:35.389 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:35.391 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+06-25 01:52:35.391 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+06-25 01:52:35.393 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:35.394 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+06-25 01:52:35.395 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+06-25 01:52:35.396 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+06-25 01:52:35.396 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+06-25 01:52:35.400 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:35.402 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:35.402 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-25 01:52:49.875 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:52:49.877 00002 DmcReceiver: Boot complete event received
+06-25 01:52:49.890 00162 DmcReceiver: run() ======DmcReceiver notify lock
+06-25 01:52:49.896 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:52:49.900 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+06-25 01:52:49.913 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:49.917 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:49.918 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+06-25 01:52:49.920 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-25 01:51:36.248 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:51:36.267 00002 APP: onCreate() 
+06-25 01:51:36.268 00002 OMADM_OMADM: initAppData
+06-25 01:51:36.319 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+06-25 01:51:36.322 00002 OMADM_OemService: onCreate
+06-25 01:51:36.331 00002 OMADM_OemService: onStartCommand
+06-25 01:51:36.332 00002 OMADM_OemService: OemBroadcastReceiver action = null
+06-25 01:51:45.315 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:51:45.316 00002 DmcReceiver: Boot complete event received
+06-25 01:51:45.319 00235 DmcReceiver: run() ======DmcReceiver notify lock
+06-25 01:51:45.323 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:51:45.323 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+06-25 01:51:45.335 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:51:45.338 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:51:45.339 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+06-25 01:51:45.343 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-25 01:52:15.947 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:52:15.958 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+06-25 01:52:15.959 00002 OMADM_SimStateReceiver: the last number is null
+06-25 01:52:15.965 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:15.966 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+06-25 01:52:15.967 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+06-25 01:52:15.984 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+06-25 01:52:15.989 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:15.992 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:15.998 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+06-25 01:52:16.000 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+06-25 01:52:16.004 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:16.007 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+06-25 01:52:16.008 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+06-25 01:52:16.011 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:16.014 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+06-25 01:52:16.015 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+06-25 01:52:16.016 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+06-25 01:52:16.017 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+06-25 01:52:16.021 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:16.024 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:16.026 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-25 02:06:18.174 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 02:06:18.187 00002 OMADM_SimStateReceiver: state = 1, simei = null
+06-25 01:51:35.832 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:51:35.851 00002 APP: onCreate() 
+06-25 01:51:35.870 00002 OMADM_OMADM: initAppData
+06-25 01:51:35.933 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+06-25 01:51:35.938 00002 OMADM_OemService: onCreate
+06-25 01:51:35.953 00002 OMADM_OemService: onStartCommand
+06-25 01:51:35.954 00002 OMADM_OemService: OemBroadcastReceiver action = null
+06-25 01:51:46.177 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:51:46.178 00002 DmcReceiver: Boot complete event received
+06-25 01:51:46.181 00190 DmcReceiver: run() ======DmcReceiver notify lock
+06-25 01:51:46.189 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:51:46.189 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+06-25 01:51:46.196 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:51:46.206 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:51:46.206 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+06-25 01:51:46.209 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-25 01:52:19.693 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+06-25 01:52:19.700 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+06-25 01:52:19.701 00002 OMADM_SimStateReceiver: the last number is null
+06-25 01:52:19.707 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:19.708 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+06-25 01:52:19.709 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+06-25 01:52:19.729 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+06-25 01:52:19.737 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:19.742 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:19.749 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+06-25 01:52:19.751 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+06-25 01:52:19.757 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:19.762 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+06-25 01:52:19.763 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+06-25 01:52:19.764 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+06-25 01:52:19.766 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+06-25 01:52:19.767 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+06-25 01:52:19.767 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+06-25 01:52:19.768 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+06-25 01:52:19.781 00002 OMADM_OMADM: the imsi : 310240134758903
+06-25 01:52:19.785 00002 OMADM_OMADM: the GID1 : 6230
+06-25 01:52:19.789 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-27 02:08:24.338 00002 CheckActivity: onCreate() 
+06-27 02:08:24.352 00002 OMADM_CheckActivity: setNeedCheckUpToShowPage :false
+06-27 02:08:24.355 00002 OMADM_CheckActivity: setChameleonUpdate :true
+06-27 02:08:24.358 00002 OMADM_OMADM: isNeedDoHFA enter, 1st, check simot params
+06-27 02:08:24.359 00002 OMADM_OMADM: isSimOtaParamReady was called
+06-27 02:08:24.359 00002 OMADM_OMADM: getTestMode value = 0
+06-27 02:08:24.360 00002 OMADM_OMADM: isSimOtaTimeOut:false
+06-27 02:08:24.387 00002 OMADM_OMADM: bl_MDN_Default is true ,curMDN not ready so return false
+06-27 02:08:24.388 00002 OMADM_OMADM: isNeedDoHFA, simotaParamsReady = false
+06-27 02:08:24.388 00002 OMADM_OMADM: isNeedDoHFA, simotaParams is not ready, should do HFA
+06-27 02:08:24.389 00002 OMADM_OMADM: isNeedDoHFA, 2nd, check subscriber_carrierid
+06-27 02:08:24.392 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand = Chameleon
+06-27 02:08:24.394 00002 OMADM_OMADM: isNeedDoHFA, defaultBrand = Chameleon
+06-27 02:08:24.395 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand is default, need do HFA
+06-27 02:08:24.395 00002 OMADM_OMADM: isNeedDoHFA, 3 points all check pass, needHfa = true
+06-27 02:08:24.399 00002 OMADM_OMADM: the imsi : 310240134758903
+06-27 02:08:24.399 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+06-27 02:08:24.400 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+06-27 02:08:24.406 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+06-27 02:08:24.406 00002 OMADM_CheckActivity: sprint uicc not exist, so not do HFA
+06-27 02:08:24.408 00002 OMADM_OMADM:   isSetupComplete false, deviceprovisioned : false
+06-27 02:08:24.411 00002 OMADM_OMADM: the imsi : 310240134758903
+06-27 02:08:24.414 00002 OMADM_OMADM: the GID1 : 6230
+06-27 02:08:24.415 00002 OMADM_CheckActivity: the last number is null
+06-27 02:08:24.417 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+06-27 02:08:24.418 00002 OMADM_CheckActivity: not sprint sim card, so startNextWizard
+06-27 02:08:24.419 00002 OMADM_OMADM: start next wizard
+06-27 02:08:24.607 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+06-27 02:08:24.616 00002 CheckActivity: onDestroy() 
+09-08 14:19:17.915 00002 OMADM_OMADM: canIntentBeHandled, result : true for intent : Intent { act=yulong.action.settings.FACE_ID_SETUP pkg=com.android.settings }
+09-08 14:19:55.573 00002 OMADM_OMADM: canIntentBeHandled, result : true for intent : Intent { act=com.android.wizard.NEXT (has extras) }
+09-08 14:20:02.521 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-08 14:20:02.522 00002 OMADM_ProvisionedContentObserver: start MID
+09-08 14:20:02.581 00002 OMADM_OMADM: the imsi : 310240134758903
+09-08 14:20:02.589 00002 OMADM_OMADM: the GID1 : 6230
+09-08 14:20:02.590 00002 OMADM_OMADM: startChameleonServiceToWork enter, filePath = /carrier/Chameleon_preload.zip
+09-08 14:20:02.592 00002 OMADM_ChameleonService: bind Chameleon Service
+09-08 14:20:02.607 00002 OMADM_OMADM: setParamStoreValue item = orangesimcard_radio_version ,value = 3706AS.SPRINT.210625.0S
+09-08 14:20:02.707 00002 OMADM_OMADM: setParamStoreValue result = true
+09-08 14:20:02.878 00002 OMADM_OMADM: setChameleonWorking sChameleonIsWorking = true
+09-08 14:20:02.879 00002 OMADM_ChameleonService: startChameleonServiceToWork, onServiceConnected is working
+09-08 14:20:02.960 00182 OMADM_ChameleonService: onConfigResultCallback phase : 1 result : true
+09-08 14:20:03.087 00182 OMADM_ChameleonService: onConfigResultCallback phase : 2 result : true
+09-08 14:20:05.666 00194 OMADM_ChameleonService: onConfigResultCallback phase : 3 result : true
+09-08 14:20:09.352 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-08 14:20:09.353 00002 OMADM_OemReceiver: action = chameleon.intent.action.PARAM_UPDATED
+09-08 14:20:09.355 00002 OMADM_OMADM: saveBrandInitDone
+09-08 14:20:09.357 00002 OMADM_OMADM: saveBrandInitDone hasInitBrand = false
+09-08 14:20:09.368 00002 OMADM_OMADM: saveBrandInitDone then save it true
+09-08 14:20:09.378 00002 OMADM_ChameleonService: unbind Chameleon Service
+09-08 14:20:09.384 00002 OMADM_OMADM: setChameleonWorkingDone sChameleonIsWorking = false
+09-08 14:20:09.385 00002 OMADM_OemReceiver: check reboot flag for ##BRAND#
+09-08 14:20:09.386 00002 OMADM_OMADM: getRebootForBRAND sRebootForBRAND = false
+09-08 22:44:15.213 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-08 22:44:15.270 00002 OMADM_SimStateReceiver: state = 1, simei = null
+09-08 23:09:04.700 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-08 23:09:04.711 00002 APP: onCreate() 
+09-08 23:09:04.714 00002 OMADM_OMADM: initAppData
+09-08 23:09:04.787 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-08 23:09:04.792 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-08 23:09:04.806 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-08 23:09:04.809 00002 OMADM_SimStateReceiver: the last number is null
+09-08 23:09:04.835 00002 OMADM_OMADM: the imsi : 310240134758903
+09-08 23:09:04.836 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-08 23:09:04.837 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-08 23:09:04.862 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-08 23:09:04.872 00002 OMADM_OMADM: the imsi : 310240134758903
+09-08 23:09:04.875 00002 OMADM_OMADM: the GID1 : 6230
+09-08 23:09:04.880 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-08 23:09:04.886 00002 OMADM_CheckActivity: the last number is null
+09-08 23:09:04.890 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-08 23:09:04.891 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-08 23:09:04.892 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-08 23:09:04.892 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-08 23:09:04.895 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-08 23:09:04.896 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-08 23:09:04.897 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-08 23:09:04.898 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-08 23:09:04.900 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-08 23:09:04.901 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-08 23:09:04.901 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-08 23:09:04.902 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-08 23:09:04.910 00002 OMADM_OMADM: the imsi : 310240134758903
+09-08 23:09:04.914 00002 OMADM_OMADM: the GID1 : 6230
+09-08 23:09:04.915 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-08 23:09:04.916 00002 OMADM_OemService: onCreate
+09-08 23:09:04.957 00002 OMADM_OemService: onStartCommand
+09-08 23:09:04.975 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-08 23:09:29.032 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-08 23:09:29.039 00002 DmcReceiver: Boot complete event received
+09-08 23:09:29.060 00211 DmcReceiver: run() ======DmcReceiver notify lock
+09-08 23:09:29.068 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-08 23:09:29.072 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-08 23:09:29.099 00002 OMADM_OMADM: the imsi : 310240134758903
+09-08 23:09:29.111 00002 OMADM_OMADM: the GID1 : 6230
+09-08 23:09:29.113 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-08 23:09:29.114 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-08 23:09:29.127 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-08 23:09:29.130 00002 OMADM_OMADM: storedSofVersion==null;curSofVersion==3706AS.SPRINT.210625.0S
+09-08 23:09:29.132 00002 OMADM_OMADM: if storedSofVersion == null, save it and return false
+09-08 23:09:29.144 00002 OMADM_OMADM: set software version: 3706AS.SPRINT.210625.0S
+09-08 23:09:29.149 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-08 23:09:29.152 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-08 23:09:29.153 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-08 23:34:31.652 00214 OMADM_OemLoadApnIntentService: onHandleIntent action : yulong.intent.action.LOADAPN
+09-08 23:34:31.663 00214 OMADM_OMADM: saveApnsAfterCIDCSuccessByInsert start
+09-08 23:34:31.665 00214 OMADM_OMADM: getParamStoreValue item = lte_apn_0 ,defValue = 
+09-08 23:34:31.670 00214 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-08 23:34:31.676 00214 OMADM_OMADM: getParamStoreValue retValue = 
+09-08 23:34:31.678 00214 OMADM_OMADM: hasValidApnInParamStore index = 0 , apn = 
+09-08 23:34:31.679 00214 OMADM_OMADM: getParamStoreValue item = lte_apn_1 ,defValue = 
+09-08 23:34:31.682 00214 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-08 23:34:31.685 00214 OMADM_OMADM: getParamStoreValue retValue = 
+09-08 23:34:31.687 00214 OMADM_OMADM: hasValidApnInParamStore index = 1 , apn = 
+09-08 23:34:31.688 00214 OMADM_OMADM: getParamStoreValue item = lte_apn_2 ,defValue = 
+09-08 23:34:31.691 00214 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-08 23:34:31.693 00214 OMADM_OMADM: getParamStoreValue retValue = 
+09-08 23:34:31.693 00214 OMADM_OMADM: hasValidApnInParamStore index = 2 , apn = 
+09-08 23:34:31.694 00214 OMADM_OMADM: getParamStoreValue item = lte_apn_3 ,defValue = 
+09-08 23:34:31.695 00214 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-08 23:34:31.696 00214 OMADM_OMADM: getParamStoreValue retValue = 
+09-08 23:34:31.697 00214 OMADM_OMADM: hasValidApnInParamStore index = 3 , apn = 
+09-08 23:34:31.697 00214 OMADM_OMADM: getParamStoreValue item = lte_apn_4 ,defValue = 
+09-08 23:34:31.699 00214 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-08 23:34:31.700 00214 OMADM_OMADM: getParamStoreValue retValue = 
+09-08 23:34:31.701 00214 OMADM_OMADM: hasValidApnInParamStore index = 4 , apn = 
+09-08 23:34:31.701 00214 OMADM_OMADM: getParamStoreValue item = lte_apn_5 ,defValue = 
+09-08 23:34:31.703 00214 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-08 23:34:31.704 00214 OMADM_OMADM: getParamStoreValue retValue = 
+09-08 23:34:31.705 00214 OMADM_OMADM: hasValidApnInParamStore index = 5 , apn = 
+09-08 23:34:31.705 00214 OMADM_OMADM: getParamStoreValue item = lte_apn_6 ,defValue = 
+09-08 23:34:31.707 00214 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-08 23:34:31.709 00214 OMADM_OMADM: getParamStoreValue retValue = 
+09-08 23:34:31.709 00214 OMADM_OMADM: hasValidApnInParamStore index = 6 , apn = 
+09-08 23:34:31.710 00214 OMADM_OMADM: getParamStoreValue item = lte_apn_7 ,defValue = 
+09-08 23:34:31.711 00214 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-08 23:34:31.713 00214 OMADM_OMADM: getParamStoreValue retValue = 
+09-08 23:34:31.714 00214 OMADM_OMADM: hasValidApnInParamStore index = 7 , apn = 
+09-08 23:34:31.714 00214 OMADM_OMADM: hasValidApnInParamStore valid count = 0
+09-08 23:34:31.715 00214 OMADM_OMADM: saveApnsAfterCIDCSuccessByInsert return because of no valid apns
+09-08 23:34:31.715 00214 OMADM_OemLoadApnIntentService: onHandleIntent loadAPN complete
+09-08 23:34:31.716 00214 OMADM_OemLoadApnIntentService: saveMmscConfig: start
+09-08 23:34:31.718 00214 OMADM_OemLoadApnIntentService: Chameleon has no data, use default proxy ip
+09-08 23:34:31.719 00214 OMADM_OemLoadApnIntentService: Chameleon has no data, use default proxy port
+09-08 23:34:31.720 00214 OMADM_OemLoadApnIntentService: saveMmscConfig: url = http://sprboost.mmsmvno.com/mms/wapenc, IP =null, Port =null
+09-08 23:34:31.729 00214 OMADM_OemLoadApnIntentService: saveMmscConfig: complete
+09-09 01:24:16.434 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 01:24:16.464 00002 OMADM_SimStateReceiver: state = 1, simei = null
+09-09 07:33:17.789 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 07:33:17.799 00002 APP: onCreate() 
+09-09 07:33:17.802 00002 OMADM_OMADM: initAppData
+09-09 07:33:17.861 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-09 07:33:17.866 00002 OMADM_OemService: onCreate
+09-09 07:33:17.879 00002 OMADM_OemService: onStartCommand
+09-09 07:33:17.880 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-09 07:33:21.585 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 07:33:21.597 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-09 07:33:21.603 00002 OMADM_SimStateReceiver: the last number is null
+09-09 07:33:21.612 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 07:33:21.614 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-09 07:33:21.619 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-09 07:33:21.675 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-09 07:33:21.685 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 07:33:21.691 00002 OMADM_OMADM: the GID1 : 6230
+09-09 07:33:21.698 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-09 07:33:21.721 00002 OMADM_CheckActivity: the last number is null
+09-09 07:33:21.728 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 07:33:21.730 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 07:33:21.731 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-09 07:33:21.735 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-09 07:33:21.745 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-09 07:33:21.749 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-09 07:33:21.760 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-09 07:33:21.766 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-09 07:33:21.776 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-09 07:33:21.777 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-09 07:33:21.778 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-09 07:33:21.778 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-09 07:33:21.805 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 07:33:21.809 00002 OMADM_OMADM: the GID1 : 6230
+09-09 07:33:21.810 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 07:33:37.059 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 07:33:37.069 00002 DmcReceiver: Boot complete event received
+09-09 07:33:37.071 00227 DmcReceiver: run() ======DmcReceiver notify lock
+09-09 07:33:37.083 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 07:33:37.084 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-09 07:33:37.097 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 07:33:37.102 00002 OMADM_OMADM: the GID1 : 6230
+09-09 07:33:37.104 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-09 07:33:37.105 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 07:33:37.107 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 07:33:37.111 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-09 07:33:37.115 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 07:33:37.116 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-09 07:33:37.117 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-09 12:04:10.680 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 12:04:10.930 00002 OMADM_SimStateReceiver: state = 1, simei = null
+09-09 12:19:11.799 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 12:19:11.820 00002 APP: onCreate() 
+09-09 12:19:11.822 00002 OMADM_OMADM: initAppData
+09-09 12:19:11.906 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-09 12:19:11.926 00002 OMADM_OemService: onCreate
+09-09 12:19:11.955 00002 OMADM_OemService: onStartCommand
+09-09 12:19:11.957 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-09 12:19:15.049 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 12:19:15.064 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-09 12:19:15.073 00002 OMADM_SimStateReceiver: the last number is null
+09-09 12:19:15.082 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 12:19:15.084 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-09 12:19:15.085 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-09 12:19:15.135 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-09 12:19:15.143 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 12:19:15.151 00002 OMADM_OMADM: the GID1 : 6230
+09-09 12:19:15.174 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-09 12:19:15.183 00002 OMADM_CheckActivity: the last number is null
+09-09 12:19:15.191 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:19:15.193 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:19:15.194 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-09 12:19:15.198 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-09 12:19:15.202 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-09 12:19:15.204 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-09 12:19:15.205 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-09 12:19:15.207 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-09 12:19:15.212 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-09 12:19:15.214 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-09 12:19:15.215 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-09 12:19:15.217 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-09 12:19:15.232 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 12:19:15.236 00002 OMADM_OMADM: the GID1 : 6230
+09-09 12:19:15.237 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:19:29.446 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 12:19:29.476 00002 DmcReceiver: Boot complete event received
+09-09 12:19:29.483 00226 DmcReceiver: run() ======DmcReceiver notify lock
+09-09 12:19:29.500 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 12:19:29.509 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-09 12:19:29.528 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 12:19:29.546 00002 OMADM_OMADM: the GID1 : 6230
+09-09 12:19:29.547 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-09 12:19:29.549 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:19:29.550 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:19:29.553 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-09 12:19:29.554 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:19:29.555 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-09 12:19:29.556 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-09 12:21:15.072 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 12:21:15.084 00002 OMADM_OemReceiver: action = com.admtek.dmc.device.start.for.other.modules
+09-09 12:21:15.086 00002 OMADM_OemReceiver: extra = 3
+09-09 12:21:15.088 00002 OMADM_OMADM: skipFUMO skip = true
+09-09 12:21:15.112 00002 OMADM_OMADM: requestCI action = com.admtek.dmc.action.uicc.unlock.start
+09-09 12:21:15.114 00002 OMADM_OMADM: requestCI type = 1
+09-09 12:21:15.115 00002 OMADM_OMADM: simOtaRunning is false
+09-09 12:21:15.121 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-09 12:21:15.133 00002 OMADM_CoolpadSdkImpl: device id = 990015570496380
+09-09 12:21:15.142 00002 OMADM_CoolpadSdkImpl: secret = dmsecret@sprint
+09-09 12:21:15.143 00002 OMADM_CoolpadSdkImpl: serverId = sprint
+09-09 12:21:15.145 00002 OMADM_CoolpadSdkImpl: serverIndicator = 1
+09-09 12:21:15.146 00002 OMADM_OMADM: getFabsResult param1 = 990015570496380
+09-09 12:21:15.148 00002 OMADM_OMADM: getFabsResult param2 = sprint
+09-09 12:21:15.149 00002 OMADM_OMADM: getFabsResult param3 = dmsecret@sprint
+09-09 12:21:15.152 00002 OMADM_OMADM: getFabsResult orginal digest = q1Uv9PDiQvFZsa5a3AMJKA
+09-09 12:21:15.153 00002 OMADM_OMADM: getFabsResult replace+ digest = q1Uv9PDiQvFZsa5a3AMJKA
+09-09 12:21:15.155 00002 OMADM_OMADM: getFabsResult replace/ digest = q1Uv9PDiQvFZsa5a3AMJKA
+09-09 12:21:15.156 00002 OMADM_CoolpadSdkImpl: clientAAuthSecret = q1Uv9PDiQvFZsa5a3AMJKA
+09-09 12:21:15.157 00002 OMADM_OMADM: getFabsResult param1 = sprint
+09-09 12:21:15.158 00002 OMADM_OMADM: getFabsResult param2 = 990015570496380
+09-09 12:21:15.159 00002 OMADM_OMADM: getFabsResult param3 = dmsecret@sprint
+09-09 12:21:15.160 00002 OMADM_OMADM: getFabsResult orginal digest = uSTLVW9r/OzUW5zfiSv5pQ
+09-09 12:21:15.161 00002 OMADM_OMADM: getFabsResult replace+ digest = uSTLVW9r/OzUW5zfiSv5pQ
+09-09 12:21:15.162 00002 OMADM_OMADM: getFabsResult replace/ digest = uSTLVW9rfOzUW5zfiSv5pQ
+09-09 12:21:15.164 00002 OMADM_CoolpadSdkImpl: serverAAuthSecret = uSTLVW9rfOzUW5zfiSv5pQ
+09-09 12:21:15.169 00002 OMADM_OMADM: action = com.admtek.dmc.action.uicc.unlock.start
+09-09 12:21:15.170 00002 OMADM_OMADM: inUse is false
+09-09 12:21:15.171 00002 OMADM_OMADM: iplisAirplaneModeOn was called, airplaneModeValue 0
+09-09 12:21:15.173 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-09 12:21:15.174 00002 OMADM_OMADM: setNeedreboot value = false
+09-09 12:21:15.174 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., startService
+09-09 12:21:15.174 00002 OMADM_OMADM: startOemUIService
+09-09 12:21:15.175 00002 OMADM_OMADM: startUIService() workflowType:15
+09-09 12:21:15.177 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., and then startUI
+09-09 12:21:15.195 00002 OMADM_OMADM: saveRssbPollLastTime enter
+09-09 12:21:15.210 00002 DmcService: onCreate() 
+09-09 12:21:15.211 00002 DmcService: Dmc Service got new workflow request
+09-09 12:21:15.212 00002 DmcService: Creating uicc-unlock workflow
+09-09 12:21:15.222 00002 FotaShortConnectionUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:21:15.223 00002 DmcService: New workflow submitted
+09-09 12:21:15.244 00228 CheckListener: startCheck() active_type = 5
+09-09 12:21:15.246 00228 UserInitUICCUnlock: handleMessage() 重试次数 = 0
+09-09 12:21:15.247 00228 RetryUtil: Network Error Happen and Retry Times: 1
+09-09 12:21:15.269 00002 CheckActivity: onCreate() 
+09-09 12:21:15.287 00002 OMADM_CheckActivity: setNeedCheckUpToShowPage :false
+09-09 12:21:15.288 00002 OMADM_CheckActivity: setChameleonUpdate :true
+09-09 12:21:15.290 00002 OMADM_OMADM: isNeedDoHFA enter, 1st, check simot params
+09-09 12:21:15.291 00002 OMADM_OMADM: isSimOtaParamReady was called
+09-09 12:21:15.291 00002 OMADM_OMADM: getTestMode value = 0
+09-09 12:21:15.292 00002 OMADM_OMADM: isSimOtaTimeOut:false
+09-09 12:21:15.311 00002 OMADM_OMADM: bl_MDN_Default is true ,curMDN not ready so return false
+09-09 12:21:15.312 00002 OMADM_OMADM: isNeedDoHFA, simotaParamsReady = false
+09-09 12:21:15.313 00002 OMADM_OMADM: isNeedDoHFA, simotaParams is not ready, should do HFA
+09-09 12:21:15.314 00002 OMADM_OMADM: isNeedDoHFA, 2nd, check subscriber_carrierid
+09-09 12:21:15.317 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand = Chameleon
+09-09 12:21:15.320 00002 OMADM_OMADM: isNeedDoHFA, defaultBrand = Chameleon
+09-09 12:21:15.321 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand is default, need do HFA
+09-09 12:21:15.322 00002 OMADM_OMADM: isNeedDoHFA, 3 points all check pass, needHfa = true
+09-09 12:21:15.327 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 12:21:15.327 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-09 12:21:15.328 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-09 12:21:15.333 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-09 12:21:15.334 00002 OMADM_CheckActivity: sprint uicc not exist, so not do HFA
+09-09 12:21:15.335 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:21:15.335 00002 OMADM_CheckActivity: forward to forward_fragment_uicc_unlock_start
+09-09 12:21:15.336 00002 OMADM_CheckActivity: onCreate() : action is null
+09-09 12:21:15.337 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:21:15.344 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:21:15.348 00002 CheckActivity: onStart() 
+09-09 12:21:15.351 00002 CheckActivity: onResume() 
+09-09 12:21:15.352 00002 OMADM_CheckActivity: init_fragment: getIntent() :Intent { flg=0x10808000 cmp=com.admtek.dmc/.app.check.CheckActivity (has extras) }
+09-09 12:21:15.353 00002 CheckActivity: forward =================== forward_fragment_uicc_unlock_start
+09-09 12:21:15.354 00002 OMADM_CheckActivity: check_uicc_unlock_start
+09-09 12:21:15.359 00002 CheckDIStartFragment: onAttach() 
+09-09 12:21:15.359 00002 CheckDIStartFragment: onCreate() 
+09-09 12:21:15.366 00002 CheckDIStartFragment: onViewCreated() 
+09-09 12:21:15.367 00002 CheckDIStartFragment: onActivityCreated() 
+09-09 12:21:15.368 00002 CheckDIStartFragment: onStart() 
+09-09 12:21:15.369 00002 CheckDIStartFragment: onResume() 
+09-09 12:21:15.380 00002 CheckActivity: onAttachedToWindow() 
+09-09 12:21:20.266 00228 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:21:20.277 00228 UserInitUICCUnlock: handleMessage() 重试次数 = 1
+09-09 12:21:20.282 00228 RetryUtil: Network Error Happen and Retry Times: 2
+09-09 12:21:25.322 00228 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:21:25.325 00228 UserInitUICCUnlock: handleMessage() 重试次数 = 2
+09-09 12:21:25.326 00228 RetryUtil: Network Error Happen and Retry Times: 3
+09-09 12:21:25.328 00228 CheckListener: check_error() active_type = 5 error_status = 7
+09-09 12:21:25.330 00228 CheckListenerImpl: sendSessionEndBroadcast. active_type:5; status:102; extraValue:null
+09-09 12:21:25.334 00002 CheckActivity:  event   what  = 500  param1= 8000  param2= 5003  param3= 0
+09-09 12:21:25.335 00228 CheckListenerImpl: sessionEnd. pengding number:009-09 12:21:25.335 00002 OMADM_CheckActivity: handleUiccUnlockDelay
+
+09-09 12:21:25.362 00002 CheckDIStartFragment: onHiddenChanged() 
+09-09 12:21:25.363 00002 DmcService: onDestroy() 
+09-09 12:21:28.626 00002 CheckActivity: onPause() 
+09-09 12:21:28.629 00002 CheckDIStartFragment: onPause() 
+09-09 12:21:29.391 00002 CheckActivity: onStop() 
+09-09 12:21:29.393 00002 CheckDIStartFragment: onStop() 
+09-09 12:21:29.397 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-09 12:21:29.401 00002 CheckActivity: onDestroy() 
+09-09 12:21:29.403 00002 CheckDIStartFragment: onDestroyView() 
+09-09 12:21:29.409 00002 CheckDIStartFragment: onDestroy() 
+09-09 12:21:29.410 00002 CheckDIStartFragment: onDetach() 
+09-09 12:21:29.412 00002 CheckDIStartFragment: onDetach()
+09-09 12:21:29.413 00002 CheckActivity: onDetachedFromWindow() 
+09-09 12:21:45.024 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 12:21:45.026 00002 OMADM_OemReceiver: action = com.admtek.dmc.device.start.for.other.modules
+09-09 12:21:45.028 00002 OMADM_OemReceiver: extra = 3
+09-09 12:21:45.030 00002 OMADM_OMADM: skipFUMO skip = true
+09-09 12:21:45.034 00002 OMADM_OMADM: requestCI action = com.admtek.dmc.action.uicc.unlock.start
+09-09 12:21:45.036 00002 OMADM_OMADM: requestCI type = 1
+09-09 12:21:45.037 00002 OMADM_OMADM: simOtaRunning is false
+09-09 12:21:45.042 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-09 12:21:45.043 00002 OMADM_OMADM: action = com.admtek.dmc.action.uicc.unlock.start
+09-09 12:21:45.045 00002 OMADM_OMADM: inUse is false
+09-09 12:21:45.047 00002 OMADM_OMADM: iplisAirplaneModeOn was called, airplaneModeValue 0
+09-09 12:21:45.054 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-09 12:21:45.055 00002 OMADM_OMADM: setNeedreboot value = false
+09-09 12:21:45.057 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., startService
+09-09 12:21:45.058 00002 OMADM_OMADM: startOemUIService
+09-09 12:21:45.060 00002 OMADM_OMADM: startUIService() workflowType:15
+09-09 12:21:45.067 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., and then startUI
+09-09 12:21:45.089 00002 OMADM_OMADM: saveRssbPollLastTime enter
+09-09 12:21:45.105 00002 DmcService: onCreate() 
+09-09 12:21:45.108 00002 DmcService: Dmc Service got new workflow request
+09-09 12:21:45.109 00002 DmcService: Creating uicc-unlock workflow
+09-09 12:21:45.116 00002 FotaShortConnectionUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:21:45.118 00002 DmcService: New workflow submitted
+09-09 12:21:45.118 00232 CheckListener: startCheck() active_type = 5
+09-09 12:21:45.120 00232 UserInitUICCUnlock: handleMessage() 重试次数 = 0
+09-09 12:21:45.120 00232 RetryUtil: Network Error Happen and Retry Times: 1
+09-09 12:21:45.157 00002 CheckActivity: onCreate() 
+09-09 12:21:45.162 00002 OMADM_CheckActivity: setNeedCheckUpToShowPage :false
+09-09 12:21:45.163 00002 OMADM_CheckActivity: setChameleonUpdate :true
+09-09 12:21:45.164 00002 OMADM_OMADM: isNeedDoHFA enter, 1st, check simot params
+09-09 12:21:45.165 00002 OMADM_OMADM: isSimOtaParamReady was called
+09-09 12:21:45.165 00002 OMADM_OMADM: getTestMode value = 0
+09-09 12:21:45.166 00002 OMADM_OMADM: isSimOtaTimeOut:false
+09-09 12:21:45.174 00002 OMADM_OMADM: bl_MDN_Default is true ,curMDN not ready so return false
+09-09 12:21:45.175 00002 OMADM_OMADM: isNeedDoHFA, simotaParamsReady = false
+09-09 12:21:45.175 00002 OMADM_OMADM: isNeedDoHFA, simotaParams is not ready, should do HFA
+09-09 12:21:45.175 00002 OMADM_OMADM: isNeedDoHFA, 2nd, check subscriber_carrierid
+09-09 12:21:45.177 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand = Chameleon
+09-09 12:21:45.179 00002 OMADM_OMADM: isNeedDoHFA, defaultBrand = Chameleon
+09-09 12:21:45.180 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand is default, need do HFA
+09-09 12:21:45.180 00002 OMADM_OMADM: isNeedDoHFA, 3 points all check pass, needHfa = true
+09-09 12:21:45.183 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 12:21:45.184 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-09 12:21:45.185 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-09 12:21:45.192 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-09 12:21:45.193 00002 OMADM_CheckActivity: sprint uicc not exist, so not do HFA
+09-09 12:21:45.193 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:21:45.194 00002 OMADM_CheckActivity: forward to forward_fragment_uicc_unlock_start
+09-09 12:21:45.194 00002 OMADM_CheckActivity: onCreate() : action is null
+09-09 12:21:45.194 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:21:45.195 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:21:45.196 00002 CheckActivity: onStart() 
+09-09 12:21:45.198 00002 CheckActivity: onResume() 
+09-09 12:21:45.198 00002 OMADM_CheckActivity: init_fragment: getIntent() :Intent { flg=0x10808000 cmp=com.admtek.dmc/.app.check.CheckActivity (has extras) }
+09-09 12:21:45.199 00002 CheckActivity: forward =================== forward_fragment_uicc_unlock_start
+09-09 12:21:45.200 00002 OMADM_CheckActivity: check_uicc_unlock_start
+09-09 12:21:45.201 00002 CheckDIStartFragment: onAttach() 
+09-09 12:21:45.202 00002 CheckDIStartFragment: onCreate() 
+09-09 12:21:45.205 00002 CheckDIStartFragment: onViewCreated() 
+09-09 12:21:45.206 00002 CheckDIStartFragment: onActivityCreated() 
+09-09 12:21:45.206 00002 CheckDIStartFragment: onStart() 
+09-09 12:21:45.207 00002 CheckDIStartFragment: onResume() 
+09-09 12:21:45.217 00002 CheckActivity: onAttachedToWindow() 
+09-09 12:21:50.164 00232 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:21:50.170 00232 UserInitUICCUnlock: handleMessage() 重试次数 = 1
+09-09 12:21:50.172 00232 RetryUtil: Network Error Happen and Retry Times: 2
+09-09 12:21:55.175 00232 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:21:55.187 00232 UserInitUICCUnlock: handleMessage() 重试次数 = 2
+09-09 12:21:55.189 00232 RetryUtil: Network Error Happen and Retry Times: 3
+09-09 12:21:55.190 00232 CheckListener: check_error() active_type = 5 error_status = 7
+09-09 12:21:55.192 00232 CheckListenerImpl: sendSessionEndBroadcast. active_type:5; status:102; extraValue:null
+09-09 12:21:55.194 00002 CheckActivity:  event   what  = 500  param1= 8000  param2= 5003  param3= 0
+09-09 12:21:55.195 00002 OMADM_CheckActivity: handleUiccUnlockDelay
+09-09 12:21:55.196 00232 CheckListenerImpl: sessionEnd. pengding number:0
+09-09 12:21:55.218 00002 CheckDIStartFragment: onHiddenChanged() 
+09-09 12:21:55.221 00002 DmcService: onDestroy() 
+09-09 12:21:56.930 00002 CheckActivity: onPause() 
+09-09 12:21:56.932 00002 CheckDIStartFragment: onPause() 
+09-09 12:21:57.676 00002 CheckActivity: onStop() 
+09-09 12:21:57.680 00002 CheckDIStartFragment: onStop() 
+09-09 12:21:57.685 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-09 12:21:57.692 00002 CheckActivity: onDestroy() 
+09-09 12:21:57.693 00002 CheckDIStartFragment: onDestroyView() 
+09-09 12:21:57.695 00002 CheckDIStartFragment: onDestroy() 
+09-09 12:21:57.695 00002 CheckDIStartFragment: onDetach() 
+09-09 12:21:57.696 00002 CheckDIStartFragment: onDetach()
+09-09 12:21:57.697 00002 CheckActivity: onDetachedFromWindow() 
+09-09 12:23:04.574 00233 OMADM_OemLoadApnIntentService: onHandleIntent action : yulong.intent.action.LOADAPN
+09-09 12:23:04.580 00233 OMADM_OMADM: saveApnsAfterCIDCSuccessByInsert start
+09-09 12:23:04.588 00233 OMADM_OMADM: getParamStoreValue item = lte_apn_0 ,defValue = 
+09-09 12:23:04.594 00233 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-09 12:23:04.597 00233 OMADM_OMADM: getParamStoreValue retValue = 
+09-09 12:23:04.598 00233 OMADM_OMADM: hasValidApnInParamStore index = 0 , apn = 
+09-09 12:23:04.600 00233 OMADM_OMADM: getParamStoreValue item = lte_apn_1 ,defValue = 
+09-09 12:23:04.603 00233 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-09 12:23:04.605 00233 OMADM_OMADM: getParamStoreValue retValue = 
+09-09 12:23:04.606 00233 OMADM_OMADM: hasValidApnInParamStore index = 1 , apn = 
+09-09 12:23:04.607 00233 OMADM_OMADM: getParamStoreValue item = lte_apn_2 ,defValue = 
+09-09 12:23:04.608 00233 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-09 12:23:04.612 00233 OMADM_OMADM: getParamStoreValue retValue = 
+09-09 12:23:04.613 00233 OMADM_OMADM: hasValidApnInParamStore index = 2 , apn = 
+09-09 12:23:04.613 00233 OMADM_OMADM: getParamStoreValue item = lte_apn_3 ,defValue = 
+09-09 12:23:04.615 00233 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-09 12:23:04.617 00233 OMADM_OMADM: getParamStoreValue retValue = 
+09-09 12:23:04.617 00233 OMADM_OMADM: hasValidApnInParamStore index = 3 , apn = 
+09-09 12:23:04.618 00233 OMADM_OMADM: getParamStoreValue item = lte_apn_4 ,defValue = 
+09-09 12:23:04.619 00233 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-09 12:23:04.621 00233 OMADM_OMADM: getParamStoreValue retValue = 
+09-09 12:23:04.621 00233 OMADM_OMADM: hasValidApnInParamStore index = 4 , apn = 
+09-09 12:23:04.621 00233 OMADM_OMADM: getParamStoreValue item = lte_apn_5 ,defValue = 
+09-09 12:23:04.622 00233 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-09 12:23:04.623 00233 OMADM_OMADM: getParamStoreValue retValue = 
+09-09 12:23:04.624 00233 OMADM_OMADM: hasValidApnInParamStore index = 5 , apn = 
+09-09 12:23:04.624 00233 OMADM_OMADM: getParamStoreValue item = lte_apn_6 ,defValue = 
+09-09 12:23:04.626 00233 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-09 12:23:04.628 00233 OMADM_OMADM: getParamStoreValue retValue = 
+09-09 12:23:04.628 00233 OMADM_OMADM: hasValidApnInParamStore index = 6 , apn = 
+09-09 12:23:04.629 00233 OMADM_OMADM: getParamStoreValue item = lte_apn_7 ,defValue = 
+09-09 12:23:04.631 00233 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-09 12:23:04.633 00233 OMADM_OMADM: getParamStoreValue retValue = 
+09-09 12:23:04.633 00233 OMADM_OMADM: hasValidApnInParamStore index = 7 , apn = 
+09-09 12:23:04.634 00233 OMADM_OMADM: hasValidApnInParamStore valid count = 0
+09-09 12:23:04.634 00233 OMADM_OMADM: saveApnsAfterCIDCSuccessByInsert return because of no valid apns
+09-09 12:23:04.635 00233 OMADM_OemLoadApnIntentService: onHandleIntent loadAPN complete
+09-09 12:23:04.635 00233 OMADM_OemLoadApnIntentService: saveMmscConfig: start
+09-09 12:23:04.638 00233 OMADM_OemLoadApnIntentService: Chameleon has no data, use default proxy ip
+09-09 12:23:04.639 00233 OMADM_OemLoadApnIntentService: Chameleon has no data, use default proxy port
+09-09 12:23:04.640 00233 OMADM_OemLoadApnIntentService: saveMmscConfig: url = http://sprboost.mmsmvno.com/mms/wapenc, IP =null, Port =null
+09-09 12:23:04.652 00233 OMADM_OemLoadApnIntentService: saveMmscConfig: complete
+09-09 12:23:34.840 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 12:23:34.842 00002 OMADM_OemReceiver: action = com.admtek.dmc.device.start.for.other.modules
+09-09 12:23:34.843 00002 OMADM_OemReceiver: extra = 3
+09-09 12:23:34.844 00002 OMADM_OMADM: skipFUMO skip = true
+09-09 12:23:34.851 00002 OMADM_OMADM: requestCI action = com.admtek.dmc.action.uicc.unlock.start
+09-09 12:23:34.853 00002 OMADM_OMADM: requestCI type = 1
+09-09 12:23:34.854 00002 OMADM_OMADM: simOtaRunning is false
+09-09 12:23:34.858 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-09 12:23:34.859 00002 OMADM_OMADM: action = com.admtek.dmc.action.uicc.unlock.start
+09-09 12:23:34.860 00002 OMADM_OMADM: inUse is false
+09-09 12:23:34.862 00002 OMADM_OMADM: iplisAirplaneModeOn was called, airplaneModeValue 0
+09-09 12:23:34.871 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-09 12:23:34.872 00002 OMADM_OMADM: setNeedreboot value = false
+09-09 12:23:34.872 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., startService
+09-09 12:23:34.873 00002 OMADM_OMADM: startOemUIService
+09-09 12:23:34.873 00002 OMADM_OMADM: startUIService() workflowType:15
+09-09 12:23:34.876 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., and then startUI
+09-09 12:23:34.897 00002 OMADM_OMADM: saveRssbPollLastTime enter
+09-09 12:23:34.921 00002 DmcService: onCreate() 
+09-09 12:23:34.921 00002 DmcService: Dmc Service got new workflow request
+09-09 12:23:34.922 00002 DmcService: Creating uicc-unlock workflow
+09-09 12:23:34.938 00002 FotaShortConnectionUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:23:34.939 00002 DmcService: New workflow submitted
+09-09 12:23:34.946 00234 CheckListener: startCheck() active_type = 5
+09-09 12:23:34.949 00234 UserInitUICCUnlock: handleMessage() 重试次数 = 0
+09-09 12:23:34.950 00234 RetryUtil: Network Error Happen and Retry Times: 1
+09-09 12:23:34.967 00002 CheckActivity: onCreate() 
+09-09 12:23:34.972 00002 OMADM_CheckActivity: setNeedCheckUpToShowPage :false
+09-09 12:23:34.973 00002 OMADM_CheckActivity: setChameleonUpdate :true
+09-09 12:23:34.975 00002 OMADM_OMADM: isNeedDoHFA enter, 1st, check simot params
+09-09 12:23:34.976 00002 OMADM_OMADM: isSimOtaParamReady was called
+09-09 12:23:34.977 00002 OMADM_OMADM: getTestMode value = 0
+09-09 12:23:34.977 00002 OMADM_OMADM: isSimOtaTimeOut:false
+09-09 12:23:34.987 00002 OMADM_OMADM: bl_MDN_Default is true ,curMDN not ready so return false
+09-09 12:23:34.988 00002 OMADM_OMADM: isNeedDoHFA, simotaParamsReady = false
+09-09 12:23:34.989 00002 OMADM_OMADM: isNeedDoHFA, simotaParams is not ready, should do HFA
+09-09 12:23:34.990 00002 OMADM_OMADM: isNeedDoHFA, 2nd, check subscriber_carrierid
+09-09 12:23:34.992 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand = Chameleon
+09-09 12:23:34.994 00002 OMADM_OMADM: isNeedDoHFA, defaultBrand = Chameleon
+09-09 12:23:34.995 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand is default, need do HFA
+09-09 12:23:34.996 00002 OMADM_OMADM: isNeedDoHFA, 3 points all check pass, needHfa = true
+09-09 12:23:35.002 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 12:23:35.003 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-09 12:23:35.004 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-09 12:23:35.011 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-09 12:23:35.012 00002 OMADM_CheckActivity: sprint uicc not exist, so not do HFA
+09-09 12:23:35.013 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:23:35.014 00002 OMADM_CheckActivity: forward to forward_fragment_uicc_unlock_start
+09-09 12:23:35.014 00002 OMADM_CheckActivity: onCreate() : action is null
+09-09 12:23:35.016 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:23:35.016 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 12:23:35.019 00002 CheckActivity: onStart() 
+09-09 12:23:35.020 00002 CheckActivity: onResume() 
+09-09 12:23:35.021 00002 OMADM_CheckActivity: init_fragment: getIntent() :Intent { flg=0x10808000 cmp=com.admtek.dmc/.app.check.CheckActivity (has extras) }
+09-09 12:23:35.022 00002 CheckActivity: forward =================== forward_fragment_uicc_unlock_start
+09-09 12:23:35.023 00002 OMADM_CheckActivity: check_uicc_unlock_start
+09-09 12:23:35.025 00002 CheckDIStartFragment: onAttach() 
+09-09 12:23:35.026 00002 CheckDIStartFragment: onCreate() 
+09-09 12:23:35.030 00002 CheckDIStartFragment: onViewCreated() 
+09-09 12:23:35.031 00002 CheckDIStartFragment: onActivityCreated() 
+09-09 12:23:35.032 00002 CheckDIStartFragment: onStart() 
+09-09 12:23:35.033 00002 CheckDIStartFragment: onResume() 
+09-09 12:23:35.050 00002 CheckActivity: onAttachedToWindow() 
+09-09 12:23:39.993 00234 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:23:39.998 00234 UserInitUICCUnlock: handleMessage() 重试次数 = 1
+09-09 12:23:39.999 00234 RetryUtil: Network Error Happen and Retry Times: 2
+09-09 12:23:45.004 00234 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 12:23:45.012 00234 UserInitUICCUnlock: handleMessage() 重试次数 = 2
+09-09 12:23:45.014 00234 RetryUtil: Network Error Happen and Retry Times: 3
+09-09 12:23:45.015 00234 CheckListener: check_error() active_type = 5 error_status = 7
+09-09 12:23:45.017 00234 CheckListenerImpl: sendSessionEndBroadcast. active_type:5; status:102; extraValue:null
+09-09 12:23:45.019 00002 CheckActivity:  event   what  = 500  param1= 8000  param2= 5003  param3= 0
+09-09 12:23:45.021 00234 CheckListenerImpl: sessionEnd. pengding number:0
+09-09 12:23:45.021 00002 OMADM_CheckActivity: handleUiccUnlockDelay
+09-09 12:23:45.048 00002 CheckDIStartFragment: onHiddenChanged() 
+09-09 12:23:45.050 00002 DmcService: onDestroy() 
+09-09 12:23:46.221 00002 CheckActivity: onPause() 
+09-09 12:23:46.222 00002 CheckDIStartFragment: onPause() 
+09-09 12:23:46.950 00002 CheckActivity: onStop() 
+09-09 12:23:46.952 00002 CheckDIStartFragment: onStop() 
+09-09 12:23:46.955 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-09 12:23:46.958 00002 CheckActivity: onDestroy() 
+09-09 12:23:46.961 00002 CheckDIStartFragment: onDestroyView() 
+09-09 12:23:46.963 00002 CheckDIStartFragment: onDestroy() 
+09-09 12:23:46.967 00002 CheckDIStartFragment: onDetach() 
+09-09 12:23:46.969 00002 CheckDIStartFragment: onDetach()
+09-09 12:23:46.970 00002 CheckActivity: onDetachedFromWindow() 
+09-09 14:10:36.798 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 14:10:36.821 00002 OMADM_OemReceiver: action = com.admtek.dmc.device.start.for.other.modules
+09-09 14:10:36.822 00002 OMADM_OemReceiver: extra = 3
+09-09 14:10:36.823 00002 OMADM_OMADM: skipFUMO skip = true
+09-09 14:10:36.825 00002 OMADM_OMADM: requestCI action = com.admtek.dmc.action.uicc.unlock.start
+09-09 14:10:36.826 00002 OMADM_OMADM: requestCI type = 1
+09-09 14:10:36.827 00002 OMADM_OMADM: simOtaRunning is false
+09-09 14:10:36.831 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-09 14:10:36.832 00002 OMADM_OMADM: action = com.admtek.dmc.action.uicc.unlock.start
+09-09 14:10:36.832 00002 OMADM_OMADM: inUse is false
+09-09 14:10:36.833 00002 OMADM_OMADM: iplisAirplaneModeOn was called, airplaneModeValue 0
+09-09 14:10:36.839 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-09 14:10:36.840 00002 OMADM_OMADM: setNeedreboot value = false
+09-09 14:10:36.841 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., startService
+09-09 14:10:36.841 00002 OMADM_OMADM: startOemUIService
+09-09 14:10:36.842 00002 OMADM_OMADM: startUIService() workflowType:15
+09-09 14:10:36.845 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., and then startUI
+09-09 14:10:36.872 00002 OMADM_OMADM: saveRssbPollLastTime enter
+09-09 14:10:36.876 00002 DmcService: onCreate() 
+09-09 14:10:36.877 00002 DmcService: Dmc Service got new workflow request
+09-09 14:10:36.878 00002 DmcService: Creating uicc-unlock workflow
+09-09 14:10:36.899 00002 FotaShortConnectionUtil: needFotaConnection() mobile connected:false; provision:1
+09-09 14:10:36.901 00002 DmcService: New workflow submitted
+09-09 14:10:36.914 00236 CheckListener: startCheck() active_type = 5
+09-09 14:10:36.915 00002 CheckActivity: onCreate() 
+09-09 14:10:36.932 00002 OMADM_CheckActivity: setNeedCheckUpToShowPage :false
+09-09 14:10:36.933 00002 OMADM_CheckActivity: setChameleonUpdate :true
+09-09 14:10:36.935 00002 OMADM_OMADM: isNeedDoHFA enter, 1st, check simot params
+09-09 14:10:36.936 00002 OMADM_OMADM: isSimOtaParamReady was called
+09-09 14:10:36.938 00002 OMADM_OMADM: getTestMode value = 0
+09-09 14:10:36.939 00002 OMADM_OMADM: isSimOtaTimeOut:false
+09-09 14:10:37.005 00002 OMADM_OMADM: bl_MDN_Default is true ,curMDN not ready so return false
+09-09 14:10:37.006 00002 OMADM_OMADM: isNeedDoHFA, simotaParamsReady = false
+09-09 14:10:37.006 00002 OMADM_OMADM: isNeedDoHFA, simotaParams is not ready, should do HFA
+09-09 14:10:37.007 00002 OMADM_OMADM: isNeedDoHFA, 2nd, check subscriber_carrierid
+09-09 14:10:37.010 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand = Chameleon
+09-09 14:10:37.012 00002 OMADM_OMADM: isNeedDoHFA, defaultBrand = Chameleon
+09-09 14:10:37.013 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand is default, need do HFA
+09-09 14:10:37.014 00002 OMADM_OMADM: isNeedDoHFA, 3 points all check pass, needHfa = true
+09-09 14:10:37.019 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 14:10:37.020 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-09 14:10:37.020 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-09 14:10:37.026 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-09 14:10:37.026 00002 OMADM_CheckActivity: sprint uicc not exist, so not do HFA
+09-09 14:10:37.028 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 14:10:37.029 00002 OMADM_CheckActivity: forward to forward_fragment_uicc_unlock_start
+09-09 14:10:37.030 00002 OMADM_CheckActivity: onCreate() : action is null
+09-09 14:10:37.031 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 14:10:37.032 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 14:10:37.034 00002 CheckActivity: onStart() 
+09-09 14:10:37.036 00002 CheckActivity: onResume() 
+09-09 14:10:37.037 00002 OMADM_CheckActivity: init_fragment: getIntent() :Intent { flg=0x10808000 cmp=com.admtek.dmc/.app.check.CheckActivity (has extras) }
+09-09 14:10:37.038 00002 CheckActivity: forward =================== forward_fragment_uicc_unlock_start
+09-09 14:10:37.038 00002 OMADM_CheckActivity: check_uicc_unlock_start
+09-09 14:10:37.040 00002 CheckDIStartFragment: onAttach() 
+09-09 14:10:37.041 00002 CheckDIStartFragment: onCreate() 
+09-09 14:10:37.047 00002 CheckDIStartFragment: onViewCreated() 
+09-09 14:10:37.049 00002 CheckDIStartFragment: onActivityCreated() 
+09-09 14:10:37.049 00002 CheckDIStartFragment: onStart() 
+09-09 14:10:37.050 00002 CheckDIStartFragment: onResume() 
+09-09 14:10:37.065 00236 OMADM_SprintImpl: getBearer networkType = 18
+09-09 14:10:37.065 00236 OMADM_SprintImpl: getBearer bearer = WiFi
+09-09 14:10:37.071 00002 CheckActivity: onAttachedToWindow() 
+09-09 14:10:37.073 00236 OMADM_SprintImpl: getInsertedUICC_ICCID enter
+09-09 14:10:37.077 00236 OMADM_SprintImpl: getInsertedUICC_ICCID iccid = 8901240132747589036
+09-09 14:10:37.083 00236 OMADM_SprintImpl: getInsertedUICC_LTE_IMSI enter
+09-09 14:10:37.086 00236 OMADM_SprintImpl: getInsertedUICC_LTE_IMSI imsi = 310240134758903
+09-09 14:10:37.108 00236 OMADM_SprintImpl: getInsertedUICC_GID1 enter
+09-09 14:10:37.116 00236 OMADM_SprintImpl: getInsertedUICC_GID1 gid1 = 6230
+09-09 14:10:37.127 00236 OMADM_SprintImpl: getVoLTE_Enabled enter
+09-09 14:10:37.154 00236 OMADM_SprintImpl: getImsManager :: imsMgr=com.android.ims.ImsManager@fe3bfef
+09-09 14:10:37.154 00236 OMADM_SprintImpl: getImsManager :: imsMgr=com.android.ims.ImsManager@fe3bfef
+09-09 14:10:37.175 00236 OMADM_SprintImpl: getVoLTE_Enabled = 1
+09-09 14:10:37.179 00236 OMADM_SprintImpl: getVoWifi_Enabled enter
+09-09 14:10:37.181 00236 OMADM_SprintImpl: getVoWifi_Enabled subId is 1
+09-09 14:10:37.181 00236 OMADM_SprintImpl: wfc_ims_enabled1
+09-09 14:10:37.182 00236 OMADM_SprintImpl: getVoWifi_Enabled = 0
+09-09 14:10:37.185 00236 OMADM_SprintImpl: getRCS_Enabled not support RCS return 0
+09-09 14:10:38.552 00236 CheckListener: check_success() active_type = 5 has_new_version = false
+09-09 14:10:38.553 00236 RemindMeSchedule: reset() 
+09-09 14:10:38.553 00236 RemindMe: clearRemindMe() 
+09-09 14:10:38.557 00236 CheckListenerImpl: sendSessionEndBroadcast. active_type:5; status:0; extraValue:null
+09-09 14:10:38.558 00236 OMADM_OMADM: getParamStoreValue item = sim_rssb_indicator ,defValue = 0
+09-09 14:10:38.560 00236 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-09 14:10:38.561 00236 OMADM_OMADM: getParamStoreValue retValue = 0
+09-09 14:10:38.561 00236 OMADM_SprintImpl: getSIM_RSSB value = 0
+09-09 14:10:38.562 00236 OMADM_OMADM: convertStr2Num str = 0
+09-09 14:10:38.562 00236 CheckListenerImpl: UICC Unlock getSIM_RSSB value:0
+09-09 14:10:38.562 00002 CheckActivity:  event   what  = 500  param1= 8000  param2= 8001  param3= 0
+09-09 14:10:38.563 00002 OMADM_CheckActivity: handleUiccUnlockDelay
+09-09 14:10:38.563 00236 CheckListenerImpl: sessionEnd. pengding number:0
+09-09 14:10:38.573 00002 CheckDIStartFragment: onHiddenChanged() 
+09-09 14:10:38.574 00002 DmcService: onDestroy() 
+09-09 14:10:39.517 00002 CheckActivity: onPause() 
+09-09 14:10:39.523 00002 CheckDIStartFragment: onPause() 
+09-09 14:10:40.281 00002 CheckActivity: onStop() 
+09-09 14:10:40.282 00002 CheckDIStartFragment: onStop() 
+09-09 14:10:40.284 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-09 14:10:40.286 00002 CheckActivity: onDestroy() 
+09-09 14:10:40.286 00002 CheckDIStartFragment: onDestroyView() 
+09-09 14:10:40.288 00002 CheckDIStartFragment: onDestroy() 
+09-09 14:10:40.289 00002 CheckDIStartFragment: onDetach() 
+09-09 14:10:40.290 00002 CheckDIStartFragment: onDetach()
+09-09 14:10:40.291 00002 CheckActivity: onDetachedFromWindow() 
+09-09 18:52:17.754 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 18:52:17.778 00002 OMADM_SimStateReceiver: state = 1, simei = null
+09-09 23:45:27.431 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 23:45:27.439 00002 APP: onCreate() 
+09-09 23:45:27.443 00002 OMADM_OMADM: initAppData
+09-09 23:45:27.501 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-09 23:45:27.506 00002 OMADM_OemService: onCreate
+09-09 23:45:27.516 00002 OMADM_OemService: onStartCommand
+09-09 23:45:27.518 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-09 23:45:31.169 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 23:45:31.187 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-09 23:45:31.190 00002 OMADM_SimStateReceiver: the last number is null
+09-09 23:45:31.203 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 23:45:31.205 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-09 23:45:31.206 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-09 23:45:31.245 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-09 23:45:31.256 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 23:45:31.263 00002 OMADM_OMADM: the GID1 : 6230
+09-09 23:45:31.270 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-09 23:45:31.284 00002 OMADM_CheckActivity: the last number is null
+09-09 23:45:31.294 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 23:45:31.296 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 23:45:31.298 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-09 23:45:31.300 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-09 23:45:31.305 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-09 23:45:31.308 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-09 23:45:31.310 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-09 23:45:31.315 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-09 23:45:31.324 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-09 23:45:31.326 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-09 23:45:31.328 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-09 23:45:31.329 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-09 23:45:31.343 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 23:45:31.352 00002 OMADM_OMADM: the GID1 : 6230
+09-09 23:45:31.353 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 23:45:53.347 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-09 23:45:53.357 00002 DmcReceiver: Boot complete event received
+09-09 23:45:53.376 00227 DmcReceiver: run() ======DmcReceiver notify lock09-09 23:45:53.384 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+
+09-09 23:45:53.397 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-09 23:45:53.417 00002 OMADM_OMADM: the imsi : 310240134758903
+09-09 23:45:53.432 00002 OMADM_OMADM: the GID1 : 6230
+09-09 23:45:53.432 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-09 23:45:53.438 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 23:45:53.442 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 23:45:53.447 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-09 23:45:53.448 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-09 23:45:53.449 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-09 23:45:53.450 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-10 00:33:35.560 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-10 00:33:35.602 00002 OMADM_SimStateReceiver: state = 1, simei = null
+09-10 20:50:46.214 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-10 20:50:46.228 00002 APP: onCreate() 
+09-10 20:50:46.231 00002 OMADM_OMADM: initAppData
+09-10 20:50:46.306 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-10 20:50:46.318 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-10 20:50:46.329 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-10 20:50:46.331 00002 OMADM_SimStateReceiver: the last number is null
+09-10 20:50:46.339 00002 OMADM_OMADM: the imsi : 310240134758903
+09-10 20:50:46.340 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-10 20:50:46.341 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-10 20:50:46.385 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-10 20:50:46.395 00002 OMADM_OMADM: the imsi : 310240134758903
+09-10 20:50:46.399 00002 OMADM_OMADM: the GID1 : 6230
+09-10 20:50:46.409 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-10 20:50:46.424 00002 OMADM_CheckActivity: the last number is null
+09-10 20:50:46.430 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-10 20:50:46.443 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-10 20:50:46.445 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-10 20:50:46.445 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-10 20:50:46.450 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-10 20:50:46.453 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-10 20:50:46.454 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-10 20:50:46.457 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-10 20:50:46.460 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-10 20:50:46.461 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-10 20:50:46.461 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-10 20:50:46.462 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-10 20:50:46.471 00002 OMADM_OMADM: the imsi : 310240134758903
+09-10 20:50:46.475 00002 OMADM_OMADM: the GID1 : 6230
+09-10 20:50:46.477 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-10 20:50:46.478 00002 OMADM_OemService: onCreate
+09-10 20:50:46.489 00002 OMADM_OemService: onStartCommand
+09-10 20:50:46.490 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-10 20:51:13.152 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-10 20:51:13.159 00002 DmcReceiver: Boot complete event received
+09-10 20:51:13.168 00219 DmcReceiver: run() ======DmcReceiver notify lock
+09-10 20:51:13.171 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-10 20:51:13.172 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-10 20:51:13.191 00002 OMADM_OMADM: the imsi : 310240134758903
+09-10 20:51:13.198 00002 OMADM_OMADM: the GID1 : 6230
+09-10 20:51:13.199 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-10 20:51:13.201 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-10 20:51:13.202 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-10 20:51:13.204 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-10 20:51:13.205 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-10 20:51:13.206 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-10 20:51:13.206 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-13 05:22:45.206 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 05:22:45.229 00002 APP: onCreate() 
+09-13 05:22:45.231 00002 OMADM_OMADM: initAppData
+09-13 05:22:45.303 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-13 05:22:45.307 00002 OMADM_OemService: onCreate
+09-13 05:22:45.314 00002 OMADM_OemService: onStartCommand
+09-13 05:22:45.314 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-13 05:22:52.377 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 05:22:52.387 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-13 05:22:52.388 00002 OMADM_SimStateReceiver: the last number is null
+09-13 05:22:52.396 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 05:22:52.397 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-13 05:22:52.398 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-13 05:22:52.443 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-13 05:22:52.449 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 05:22:52.454 00002 OMADM_OMADM: the GID1 : 6230
+09-13 05:22:52.460 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-13 05:22:52.469 00002 OMADM_CheckActivity: the last number is null
+09-13 05:22:52.474 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 05:22:52.475 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 05:22:52.476 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-13 05:22:52.476 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-13 05:22:52.483 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-13 05:22:52.485 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-13 05:22:52.486 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-13 05:22:52.487 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-13 05:22:52.489 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-13 05:22:52.489 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-13 05:22:52.490 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-13 05:22:52.491 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-13 05:22:52.495 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 05:22:52.497 00002 OMADM_OMADM: the GID1 : 6230
+09-13 05:22:52.498 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 05:23:14.194 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 05:23:14.209 00002 DmcReceiver: Boot complete event received
+09-13 05:23:14.213 00226 DmcReceiver: run() ======DmcReceiver notify lock
+09-13 05:23:14.217 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 05:23:14.218 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-13 05:23:14.228 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 05:23:14.230 00002 OMADM_OMADM: the GID1 : 6230
+09-13 05:23:14.231 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-13 05:23:14.231 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 05:23:14.232 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 05:23:14.234 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-13 05:23:14.235 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 05:23:14.235 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-13 05:23:14.236 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-13 06:35:39.305 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 06:35:39.322 00002 APP: onCreate() 
+09-13 06:35:39.324 00002 OMADM_OMADM: initAppData
+09-13 06:35:39.448 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-13 06:35:39.453 00002 OMADM_OemService: onCreate
+09-13 06:35:39.461 00002 OMADM_OemService: onStartCommand
+09-13 06:35:39.467 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-13 06:35:46.639 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 06:35:46.648 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-13 06:35:46.651 00002 OMADM_SimStateReceiver: the last number is null
+09-13 06:35:46.668 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 06:35:46.669 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-13 06:35:46.670 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-13 06:35:46.748 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-13 06:35:46.759 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 06:35:46.765 00002 OMADM_OMADM: the GID1 : 6230
+09-13 06:35:46.774 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-13 06:35:46.807 00002 OMADM_CheckActivity: the last number is null
+09-13 06:35:46.816 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:35:46.818 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:35:46.819 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-13 06:35:46.823 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-13 06:35:46.828 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-13 06:35:46.831 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-13 06:35:46.832 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-13 06:35:46.834 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-13 06:35:46.838 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-13 06:35:46.839 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-13 06:35:46.840 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-13 06:35:46.842 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-13 06:35:46.850 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 06:35:46.853 00002 OMADM_OMADM: the GID1 : 6230
+09-13 06:35:46.854 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:36:06.944 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 06:36:06.951 00002 DmcReceiver: Boot complete event received
+09-13 06:36:06.954 00216 DmcReceiver: run() ======DmcReceiver notify lock
+09-13 06:36:06.974 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 06:36:06.976 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-13 06:36:06.987 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 06:36:06.991 00002 OMADM_OMADM: the GID1 : 6230
+09-13 06:36:06.992 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-13 06:36:06.993 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:36:06.994 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:36:06.996 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-13 06:36:06.997 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:36:06.998 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-13 06:36:06.998 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-13 06:43:22.071 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 06:43:22.096 00002 OMADM_OemReceiver: action = com.admtek.dmc.device.start.for.other.modules
+09-13 06:43:22.097 00002 OMADM_OemReceiver: extra = 3
+09-13 06:43:22.098 00002 OMADM_OMADM: skipFUMO skip = true
+09-13 06:43:22.141 00002 OMADM_OMADM: requestCI action = com.admtek.dmc.action.uicc.unlock.start
+09-13 06:43:22.144 00002 OMADM_OMADM: requestCI type = 1
+09-13 06:43:22.146 00002 OMADM_OMADM: simOtaRunning is false
+09-13 06:43:22.152 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-13 06:43:22.164 00002 OMADM_OMADM: action = com.admtek.dmc.action.uicc.unlock.start
+09-13 06:43:22.166 00002 OMADM_OMADM: inUse is false
+09-13 06:43:22.168 00002 OMADM_OMADM: iplisAirplaneModeOn was called, airplaneModeValue 0
+09-13 06:43:22.175 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-13 06:43:22.176 00002 OMADM_OMADM: setNeedreboot value = false
+09-13 06:43:22.178 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., startService
+09-13 06:43:22.179 00002 OMADM_OMADM: startOemUIService
+09-13 06:43:22.181 00002 OMADM_OMADM: startUIService() workflowType:15
+09-13 06:43:22.185 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., and then startUI
+09-13 06:43:22.205 00002 OMADM_OMADM: saveRssbPollLastTime enter
+09-13 06:43:22.210 00002 DmcService: onCreate() 
+09-13 06:43:22.211 00002 DmcService: Dmc Service got new workflow request
+09-13 06:43:22.212 00002 DmcService: Creating uicc-unlock workflow
+09-13 06:43:22.230 00002 FotaShortConnectionUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:43:22.232 00002 DmcService: New workflow submitted
+09-13 06:43:22.237 00219 CheckListener: startCheck() active_type = 5
+09-13 06:43:22.243 00002 CheckActivity: onCreate() 
+09-13 06:43:22.248 00219 UserInitUICCUnlock: handleMessage() 重试次数 = 0
+09-13 06:43:22.249 00219 RetryUtil: Network Error Happen and Retry Times: 1
+09-13 06:43:22.255 00002 OMADM_CheckActivity: setNeedCheckUpToShowPage :false
+09-13 06:43:22.256 00002 OMADM_CheckActivity: setChameleonUpdate :true
+09-13 06:43:22.258 00002 OMADM_OMADM: isNeedDoHFA enter, 1st, check simot params
+09-13 06:43:22.259 00002 OMADM_OMADM: isSimOtaParamReady was called
+09-13 06:43:22.259 00002 OMADM_OMADM: getTestMode value = 0
+09-13 06:43:22.260 00002 OMADM_OMADM: isSimOtaTimeOut:false
+09-13 06:43:22.298 00002 OMADM_OMADM: bl_MDN_Default is true ,curMDN not ready so return false
+09-13 06:43:22.298 00002 OMADM_OMADM: isNeedDoHFA, simotaParamsReady = false
+09-13 06:43:22.299 00002 OMADM_OMADM: isNeedDoHFA, simotaParams is not ready, should do HFA
+09-13 06:43:22.299 00002 OMADM_OMADM: isNeedDoHFA, 2nd, check subscriber_carrierid
+09-13 06:43:22.301 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand = Chameleon
+09-13 06:43:22.304 00002 OMADM_OMADM: isNeedDoHFA, defaultBrand = Chameleon
+09-13 06:43:22.304 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand is default, need do HFA
+09-13 06:43:22.305 00002 OMADM_OMADM: isNeedDoHFA, 3 points all check pass, needHfa = true
+09-13 06:43:22.310 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 06:43:22.311 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-13 06:43:22.312 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-13 06:43:22.318 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-13 06:43:22.319 00002 OMADM_CheckActivity: sprint uicc not exist, so not do HFA
+09-13 06:43:22.322 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:22.322 00002 OMADM_CheckActivity: forward to forward_fragment_uicc_unlock_start
+09-13 06:43:22.323 00002 OMADM_CheckActivity: onCreate() : action is null
+09-13 06:43:22.324 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:22.332 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:22.335 00002 CheckActivity: onStart() 
+09-13 06:43:22.337 00002 CheckActivity: onResume() 
+09-13 06:43:22.338 00002 OMADM_CheckActivity: init_fragment: getIntent() :Intent { flg=0x10808000 cmp=com.admtek.dmc/.app.check.CheckActivity (has extras) }
+09-13 06:43:22.338 00002 CheckActivity: forward =================== forward_fragment_uicc_unlock_start
+09-13 06:43:22.339 00002 OMADM_CheckActivity: check_uicc_unlock_start
+09-13 06:43:22.343 00002 CheckDIStartFragment: onAttach() 
+09-13 06:43:22.344 00002 CheckDIStartFragment: onCreate() 
+09-13 06:43:22.351 00002 CheckDIStartFragment: onViewCreated() 
+09-13 06:43:22.352 00002 CheckDIStartFragment: onActivityCreated() 
+09-13 06:43:22.352 00002 CheckDIStartFragment: onStart() 
+09-13 06:43:22.353 00002 CheckDIStartFragment: onResume() 
+09-13 06:43:22.373 00002 CheckActivity: onAttachedToWindow() 
+09-13 06:43:27.298 00219 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:43:27.311 00219 UserInitUICCUnlock: handleMessage() 重试次数 = 1
+09-13 06:43:27.314 00219 RetryUtil: Network Error Happen and Retry Times: 2
+09-13 06:43:32.351 00219 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:43:32.357 00219 UserInitUICCUnlock: handleMessage() 重试次数 = 2
+09-13 06:43:32.359 00219 RetryUtil: Network Error Happen and Retry Times: 3
+09-13 06:43:32.362 00219 CheckListener: check_error() active_type = 5 error_status = 7
+09-13 06:43:32.365 00219 CheckListenerImpl: sendSessionEndBroadcast. active_type:5; status:102; extraValue:null
+09-13 06:43:32.368 00002 CheckActivity:  event   what  = 500  param1= 8000  param2= 5003  param3= 0
+09-13 06:43:32.369 00002 OMADM_CheckActivity: handleUiccUnlockDelay
+09-13 06:43:32.371 00219 CheckListenerImpl: sessionEnd. pengding number:0
+09-13 06:43:32.404 00002 CheckDIStartFragment: onHiddenChanged() 
+09-13 06:43:32.406 00002 DmcService: onDestroy() 
+09-13 06:43:33.932 00002 CheckActivity: onPause() 
+09-13 06:43:33.933 00002 CheckDIStartFragment: onPause() 
+09-13 06:43:34.701 00002 CheckActivity: onStop() 
+09-13 06:43:34.702 00002 CheckDIStartFragment: onStop() 
+09-13 06:43:34.712 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-13 06:43:34.714 00002 CheckActivity: onDestroy() 
+09-13 06:43:34.716 00002 CheckDIStartFragment: onDestroyView() 
+09-13 06:43:34.719 00002 CheckDIStartFragment: onDestroy() 
+09-13 06:43:34.721 00002 CheckDIStartFragment: onDetach() 
+09-13 06:43:34.722 00002 CheckDIStartFragment: onDetach()
+09-13 06:43:34.723 00002 CheckActivity: onDetachedFromWindow() 
+09-13 06:43:35.743 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 06:43:35.747 00002 OMADM_OemReceiver: action = com.admtek.dmc.device.start.for.other.modules
+09-13 06:43:35.748 00002 OMADM_OemReceiver: extra = 3
+09-13 06:43:35.751 00002 OMADM_OMADM: skipFUMO skip = true
+09-13 06:43:35.755 00002 OMADM_OMADM: requestCI action = com.admtek.dmc.action.uicc.unlock.start
+09-13 06:43:35.757 00002 OMADM_OMADM: requestCI type = 1
+09-13 06:43:35.763 00002 OMADM_OMADM: simOtaRunning is false
+09-13 06:43:35.766 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-13 06:43:35.768 00002 OMADM_OMADM: action = com.admtek.dmc.action.uicc.unlock.start
+09-13 06:43:35.769 00002 OMADM_OMADM: inUse is false
+09-13 06:43:35.771 00002 OMADM_OMADM: iplisAirplaneModeOn was called, airplaneModeValue 0
+09-13 06:43:35.782 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-13 06:43:35.783 00002 OMADM_OMADM: setNeedreboot value = false
+09-13 06:43:35.784 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., startService
+09-13 06:43:35.786 00002 OMADM_OMADM: startOemUIService
+09-13 06:43:35.787 00002 OMADM_OMADM: startUIService() workflowType:15
+09-13 06:43:35.798 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., and then startUI
+09-13 06:43:35.817 00002 OMADM_OMADM: saveRssbPollLastTime enter
+09-13 06:43:35.820 00002 DmcService: onCreate() 
+09-13 06:43:35.821 00002 DmcService: Dmc Service got new workflow request
+09-13 06:43:35.822 00002 DmcService: Creating uicc-unlock workflow
+09-13 06:43:35.830 00002 FotaShortConnectionUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:43:35.831 00002 DmcService: New workflow submitted
+09-13 06:43:35.834 00223 CheckListener: startCheck() active_type = 5
+09-13 06:43:35.835 00223 UserInitUICCUnlock: handleMessage() 重试次数 = 0
+09-13 06:43:35.836 00223 RetryUtil: Network Error Happen and Retry Times: 1
+09-13 06:43:35.846 00002 CheckActivity: onCreate() 
+09-13 06:43:35.851 00002 OMADM_CheckActivity: setNeedCheckUpToShowPage :false
+09-13 06:43:35.852 00002 OMADM_CheckActivity: setChameleonUpdate :true
+09-13 06:43:35.853 00002 OMADM_OMADM: isNeedDoHFA enter, 1st, check simot params
+09-13 06:43:35.854 00002 OMADM_OMADM: isSimOtaParamReady was called
+09-13 06:43:35.855 00002 OMADM_OMADM: getTestMode value = 0
+09-13 06:43:35.855 00002 OMADM_OMADM: isSimOtaTimeOut:false
+09-13 06:43:35.862 00002 OMADM_OMADM: bl_MDN_Default is true ,curMDN not ready so return false
+09-13 06:43:35.862 00002 OMADM_OMADM: isNeedDoHFA, simotaParamsReady = false
+09-13 06:43:35.863 00002 OMADM_OMADM: isNeedDoHFA, simotaParams is not ready, should do HFA
+09-13 06:43:35.863 00002 OMADM_OMADM: isNeedDoHFA, 2nd, check subscriber_carrierid
+09-13 06:43:35.865 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand = Chameleon
+09-13 06:43:35.867 00002 OMADM_OMADM: isNeedDoHFA, defaultBrand = Chameleon
+09-13 06:43:35.867 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand is default, need do HFA
+09-13 06:43:35.868 00002 OMADM_OMADM: isNeedDoHFA, 3 points all check pass, needHfa = true
+09-13 06:43:35.871 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 06:43:35.872 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-13 06:43:35.873 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-13 06:43:35.879 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-13 06:43:35.880 00002 OMADM_CheckActivity: sprint uicc not exist, so not do HFA
+09-13 06:43:35.881 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:35.882 00002 OMADM_CheckActivity: forward to forward_fragment_uicc_unlock_start
+09-13 06:43:35.882 00002 OMADM_CheckActivity: onCreate() : action is null
+09-13 06:43:35.883 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:35.884 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:35.885 00002 CheckActivity: onStart() 
+09-13 06:43:35.887 00002 CheckActivity: onResume() 
+09-13 06:43:35.887 00002 OMADM_CheckActivity: init_fragment: getIntent() :Intent { flg=0x10808000 cmp=com.admtek.dmc/.app.check.CheckActivity (has extras) }
+09-13 06:43:35.888 00002 CheckActivity: forward =================== forward_fragment_uicc_unlock_start
+09-13 06:43:35.889 00002 OMADM_CheckActivity: check_uicc_unlock_start
+09-13 06:43:35.890 00002 CheckDIStartFragment: onAttach() 
+09-13 06:43:35.891 00002 CheckDIStartFragment: onCreate() 
+09-13 06:43:35.895 00002 CheckDIStartFragment: onViewCreated() 
+09-13 06:43:35.895 00002 CheckDIStartFragment: onActivityCreated() 
+09-13 06:43:35.896 00002 CheckDIStartFragment: onStart() 
+09-13 06:43:35.897 00002 CheckDIStartFragment: onResume() 
+09-13 06:43:35.907 00002 CheckActivity: onAttachedToWindow() 
+09-13 06:43:37.571 00002 CheckDIStartFragment: cancel ci start session.
+09-13 06:43:37.572 00002 OMADM_OMADM: getCIStartAction sCIStartAction = com.admtek.dmc.action.uicc.unlock.start
+09-13 06:43:37.597 00002 CheckActivity: onPause() 
+09-13 06:43:37.599 00002 CheckDIStartFragment: onPause() 
+09-13 06:43:38.381 00002 CheckActivity: onStop() 
+09-13 06:43:38.383 00002 CheckDIStartFragment: onStop() 
+09-13 06:43:38.387 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-13 06:43:38.390 00002 CheckActivity: onDestroy() 
+09-13 06:43:38.397 00002 CheckDIStartFragment: onDestroyView() 
+09-13 06:43:38.400 00002 CheckDIStartFragment: onDestroy() 
+09-13 06:43:38.401 00002 CheckDIStartFragment: onDetach() 
+09-13 06:43:38.403 00002 CheckDIStartFragment: onDetach()
+09-13 06:43:38.404 00002 CheckActivity: onDetachedFromWindow() 
+09-13 06:43:40.881 00223 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:43:40.887 00223 UserInitUICCUnlock: handleMessage() 重试次数 = 1
+09-13 06:43:40.889 00223 RetryUtil: Network Error Happen and Retry Times: 2
+09-13 06:43:45.891 00223 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:43:45.894 00223 UserInitUICCUnlock: handleMessage() 重试次数 = 2
+09-13 06:43:45.894 00223 RetryUtil: Network Error Happen and Retry Times: 3
+09-13 06:43:45.895 00223 CheckListener: check_error() active_type = 5 error_status = 7
+09-13 06:43:45.896 00223 CheckListenerImpl: sendSessionEndBroadcast. active_type:5; status:102; extraValue:null
+09-13 06:43:45.898 00223 CheckListenerImpl: sessionEnd. pengding number:0
+09-13 06:43:45.900 00002 DmcService: onDestroy() 
+09-13 06:43:53.902 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 06:43:53.905 00002 OMADM_OemReceiver: action = com.admtek.dmc.device.start.for.other.modules
+09-13 06:43:53.906 00002 OMADM_OemReceiver: extra = 3
+09-13 06:43:53.907 00002 OMADM_OMADM: skipFUMO skip = true
+09-13 06:43:53.911 00002 OMADM_OMADM: requestCI action = com.admtek.dmc.action.uicc.unlock.start
+09-13 06:43:53.912 00002 OMADM_OMADM: requestCI type = 1
+09-13 06:43:53.914 00002 OMADM_OMADM: simOtaRunning is false
+09-13 06:43:53.917 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-13 06:43:53.919 00002 OMADM_OMADM: action = com.admtek.dmc.action.uicc.unlock.start
+09-13 06:43:53.921 00002 OMADM_OMADM: inUse is false
+09-13 06:43:53.922 00002 OMADM_OMADM: iplisAirplaneModeOn was called, airplaneModeValue 0
+09-13 06:43:53.934 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-13 06:43:53.935 00002 OMADM_OMADM: setNeedreboot value = false
+09-13 06:43:53.936 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., startService
+09-13 06:43:53.937 00002 OMADM_OMADM: startOemUIService
+09-13 06:43:53.938 00002 OMADM_OMADM: startUIService() workflowType:15
+09-13 06:43:53.956 00002 OMADM_OMADM: OMA_DM_ACTION_UICC_UNLOCK_START from Settings..., and then startUI
+09-13 06:43:53.977 00002 OMADM_OMADM: saveRssbPollLastTime enter
+09-13 06:43:53.981 00002 DmcService: onCreate() 
+09-13 06:43:53.983 00002 DmcService: Dmc Service got new workflow request
+09-13 06:43:53.985 00002 DmcService: Creating uicc-unlock workflow
+09-13 06:43:53.995 00002 FotaShortConnectionUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:43:53.996 00002 DmcService: New workflow submitted
+09-13 06:43:53.997 00224 CheckListener: startCheck() active_type = 5
+09-13 06:43:53.999 00224 UserInitUICCUnlock: handleMessage() 重试次数 = 0
+09-13 06:43:53.999 00224 RetryUtil: Network Error Happen and Retry Times: 1
+09-13 06:43:54.000 00002 CheckActivity: onCreate() 
+09-13 06:43:54.005 00002 OMADM_CheckActivity: setNeedCheckUpToShowPage :false
+09-13 06:43:54.005 00002 OMADM_CheckActivity: setChameleonUpdate :true
+09-13 06:43:54.007 00002 OMADM_OMADM: isNeedDoHFA enter, 1st, check simot params
+09-13 06:43:54.008 00002 OMADM_OMADM: isSimOtaParamReady was called
+09-13 06:43:54.008 00002 OMADM_OMADM: getTestMode value = 0
+09-13 06:43:54.009 00002 OMADM_OMADM: isSimOtaTimeOut:false
+09-13 06:43:54.017 00002 OMADM_OMADM: bl_MDN_Default is true ,curMDN not ready so return false
+09-13 06:43:54.017 00002 OMADM_OMADM: isNeedDoHFA, simotaParamsReady = false
+09-13 06:43:54.018 00002 OMADM_OMADM: isNeedDoHFA, simotaParams is not ready, should do HFA
+09-13 06:43:54.018 00002 OMADM_OMADM: isNeedDoHFA, 2nd, check subscriber_carrierid
+09-13 06:43:54.020 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand = Chameleon
+09-13 06:43:54.022 00002 OMADM_OMADM: isNeedDoHFA, defaultBrand = Chameleon
+09-13 06:43:54.023 00002 OMADM_OMADM: isNeedDoHFA, customizationBrand is default, need do HFA
+09-13 06:43:54.023 00002 OMADM_OMADM: isNeedDoHFA, 3 points all check pass, needHfa = true
+09-13 06:43:54.030 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 06:43:54.031 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-13 06:43:54.031 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-13 06:43:54.037 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-13 06:43:54.038 00002 OMADM_CheckActivity: sprint uicc not exist, so not do HFA
+09-13 06:43:54.039 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:54.039 00002 OMADM_CheckActivity: forward to forward_fragment_uicc_unlock_start
+09-13 06:43:54.040 00002 OMADM_CheckActivity: onCreate() : action is null
+09-13 06:43:54.040 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:54.041 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 06:43:54.043 00002 CheckActivity: onStart() 
+09-13 06:43:54.044 00002 CheckActivity: onResume() 
+09-13 06:43:54.045 00002 OMADM_CheckActivity: init_fragment: getIntent() :Intent { flg=0x10808000 cmp=com.admtek.dmc/.app.check.CheckActivity (has extras) }
+09-13 06:43:54.045 00002 CheckActivity: forward =================== forward_fragment_uicc_unlock_start
+09-13 06:43:54.046 00002 OMADM_CheckActivity: check_uicc_unlock_start
+09-13 06:43:54.047 00002 CheckDIStartFragment: onAttach() 
+09-13 06:43:54.048 00002 CheckDIStartFragment: onCreate() 
+09-13 06:43:54.052 00002 CheckDIStartFragment: onViewCreated() 
+09-13 06:43:54.052 00002 CheckDIStartFragment: onActivityCreated() 
+09-13 06:43:54.053 00002 CheckDIStartFragment: onStart() 
+09-13 06:43:54.054 00002 CheckDIStartFragment: onResume() 
+09-13 06:43:54.059 00002 CheckActivity: onAttachedToWindow() 
+09-13 06:43:55.780 00002 CheckDIStartFragment: cancel ci start session.
+09-13 06:43:55.781 00002 OMADM_OMADM: getCIStartAction sCIStartAction = com.admtek.dmc.action.uicc.unlock.start
+09-13 06:43:55.805 00002 CheckActivity: onPause() 
+09-13 06:43:55.806 00002 CheckDIStartFragment: onPause() 
+09-13 06:43:56.572 00002 CheckActivity: onStop() 
+09-13 06:43:56.574 00002 CheckDIStartFragment: onStop() 
+09-13 06:43:56.579 00002 OMADM_OMADM: isWorkflowsActive isActive = false
+09-13 06:43:56.582 00002 CheckActivity: onDestroy() 
+09-13 06:43:56.584 00002 CheckDIStartFragment: onDestroyView() 
+09-13 06:43:56.586 00002 CheckDIStartFragment: onDestroy() 
+09-13 06:43:56.587 00002 CheckDIStartFragment: onDetach() 
+09-13 06:43:56.588 00002 CheckDIStartFragment: onDetach()
+09-13 06:43:56.590 00002 CheckActivity: onDetachedFromWindow() 
+09-13 06:43:59.047 00224 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:43:59.062 00224 UserInitUICCUnlock: handleMessage() 重试次数 = 1
+09-13 06:43:59.064 00224 RetryUtil: Network Error Happen and Retry Times: 2
+09-13 06:44:04.070 00224 FotaShortConnectionRetryUtil: needFotaConnection() mobile connected:false; provision:1
+09-13 06:44:04.082 00224 UserInitUICCUnlock: handleMessage() 重试次数 = 2
+09-13 06:44:04.086 00224 RetryUtil: Network Error Happen and Retry Times: 3
+09-13 06:44:04.091 00224 CheckListener: check_error() active_type = 5 error_status = 7
+09-13 06:44:04.097 00224 CheckListenerImpl: sendSessionEndBroadcast. active_type:5; status:102; extraValue:null
+09-13 06:44:04.105 00224 CheckListenerImpl: sessionEnd. pengding number:0
+09-13 06:44:04.116 00002 DmcService: onDestroy() 
+09-13 10:06:07.180 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 10:06:07.269 00002 OMADM_SimStateReceiver: state = 1, simei = null
+09-13 10:46:15.981 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 10:46:16.005 00002 APP: onCreate() 
+09-13 10:46:16.008 00002 OMADM_OMADM: initAppData
+09-13 10:46:16.079 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-13 10:46:16.083 00002 OMADM_OemService: onCreate
+09-13 10:46:16.100 00002 OMADM_OemService: onStartCommand
+09-13 10:46:16.101 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-13 10:46:21.629 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 10:46:21.636 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-13 10:46:21.637 00002 OMADM_SimStateReceiver: the last number is null
+09-13 10:46:21.645 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 10:46:21.646 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-13 10:46:21.647 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-13 10:46:21.696 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-13 10:46:21.704 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 10:46:21.707 00002 OMADM_OMADM: the GID1 : 6230
+09-13 10:46:21.710 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+09-13 10:46:21.711 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-13 10:46:21.716 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-13 10:46:21.719 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-13 10:46:21.719 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-13 10:46:21.722 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-13 10:46:21.724 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-13 10:46:21.724 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-13 10:46:21.725 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-13 10:46:21.726 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-13 10:46:21.733 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 10:46:21.736 00002 OMADM_OMADM: the GID1 : 6230
+09-13 10:46:21.744 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 10:46:45.256 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 10:46:45.270 00002 DmcReceiver: Boot complete event received
+09-13 10:46:45.274 00221 DmcReceiver: run() ======DmcReceiver notify lock
+09-13 10:46:45.281 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 10:46:45.282 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-13 10:46:45.299 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 10:46:45.307 00002 OMADM_OMADM: the GID1 : 6230
+09-13 10:46:45.308 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-13 10:46:45.310 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 10:46:45.311 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 10:46:45.314 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-13 10:46:45.314 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 10:46:45.315 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-13 10:46:45.316 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-13 14:10:14.565 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 14:10:14.632 00002 OMADM_SimStateReceiver: state = 1, simei = null
+09-13 14:14:12.102 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 14:14:12.132 00002 APP: onCreate() 
+09-13 14:14:12.134 00002 OMADM_OMADM: initAppData
+09-13 14:14:12.201 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-13 14:14:12.204 00002 OMADM_OemService: onCreate
+09-13 14:14:12.209 00002 OMADM_OemService: onStartCommand
+09-13 14:14:12.209 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-13 14:14:14.846 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 14:14:14.864 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-13 14:14:14.868 00002 OMADM_SimStateReceiver: the last number is null
+09-13 14:14:14.882 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 14:14:14.883 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-13 14:14:14.884 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-13 14:14:14.953 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-13 14:14:14.978 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 14:14:14.990 00002 OMADM_OMADM: the GID1 : 6230
+09-13 14:14:14.999 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+09-13 14:14:15.000 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-13 14:14:15.007 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-13 14:14:15.009 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-13 14:14:15.011 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-13 14:14:15.013 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-13 14:14:15.016 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-13 14:14:15.018 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-13 14:14:15.019 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-13 14:14:15.021 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-13 14:14:15.032 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 14:14:15.038 00002 OMADM_OMADM: the GID1 : 6230
+09-13 14:14:15.046 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 14:14:38.362 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 14:14:38.371 00002 DmcReceiver: Boot complete event received
+09-13 14:14:38.378 00227 DmcReceiver: run() ======DmcReceiver notify lock
+09-13 14:14:38.384 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-13 14:14:38.385 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-13 14:14:38.401 00002 OMADM_OMADM: the imsi : 310240134758903
+09-13 14:14:38.404 00002 OMADM_OMADM: the GID1 : 6230
+09-13 14:14:38.406 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-13 14:14:38.408 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 14:14:38.408 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 14:14:38.411 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-13 14:14:38.412 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-13 14:14:38.413 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-13 14:14:38.414 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-15 19:16:36.637 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-15 19:16:36.702 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-15 19:16:38.025 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-15 19:16:38.027 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-15 19:16:38.104 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-15 19:16:38.105 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-15 19:16:41.233 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-15 19:16:41.235 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-15 19:16:41.240 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-15 19:16:41.306 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-15 19:16:41.307 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-15 19:16:41.307 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-15 19:16:41.347 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-15 19:16:41.348 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-15 19:16:41.357 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-18 19:38:04.444 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-18 19:38:04.481 00002 APP: onCreate() 
+09-18 19:38:04.483 00002 OMADM_OMADM: initAppData
+09-18 19:38:04.625 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-18 19:38:04.639 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-18 19:38:04.677 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-18 19:38:04.699 00002 OMADM_SimStateReceiver: the last number is null
+09-18 19:38:04.725 00002 OMADM_OMADM: the imsi : 310240134758903
+09-18 19:38:04.726 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-18 19:38:04.727 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-18 19:38:04.758 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-18 19:38:04.790 00002 OMADM_OMADM: the imsi : 310240134758903
+09-18 19:38:04.800 00002 OMADM_OMADM: the GID1 : 6230
+09-18 19:38:04.823 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+09-18 19:38:04.829 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-18 19:38:04.867 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-18 19:38:04.870 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-18 19:38:04.871 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-18 19:38:04.881 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-18 19:38:04.884 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-18 19:38:04.885 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-18 19:38:04.886 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-18 19:38:04.888 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-18 19:38:04.902 00002 OMADM_OMADM: the imsi : 310240134758903
+09-18 19:38:04.914 00002 OMADM_OMADM: the GID1 : 6230
+09-18 19:38:04.918 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-18 19:38:04.921 00002 OMADM_OemService: onCreate
+09-18 19:38:04.940 00002 OMADM_OemService: onStartCommand
+09-18 19:38:04.941 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-18 19:38:38.674 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-18 19:38:38.692 00002 DmcReceiver: Boot complete event received
+09-18 19:38:38.695 00216 DmcReceiver: run() ======DmcReceiver notify lock
+09-18 19:38:38.704 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-18 19:38:38.705 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-18 19:38:38.719 00002 OMADM_OMADM: the imsi : 310240134758903
+09-18 19:38:38.724 00002 OMADM_OMADM: the GID1 : 6230
+09-18 19:38:38.725 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-18 19:38:38.726 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-18 19:38:38.727 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-18 19:38:38.730 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-18 19:38:38.730 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-18 19:38:38.731 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-18 19:38:38.732 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-20 06:49:25.641 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-20 06:49:25.689 00002 OMADM_SimStateReceiver: state = 1, simei = null
+09-20 15:47:13.355 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-20 15:47:13.383 00002 APP: onCreate() 
+09-20 15:47:13.385 00002 OMADM_OMADM: initAppData
+09-20 15:47:13.455 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-20 15:47:13.458 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-20 15:47:13.463 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-20 15:47:13.466 00002 OMADM_SimStateReceiver: the last number is null
+09-20 15:47:13.471 00002 OMADM_OMADM: the imsi : 310240134758903
+09-20 15:47:13.472 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-20 15:47:13.473 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-20 15:47:13.499 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-20 15:47:13.505 00002 OMADM_OMADM: the imsi : 310240134758903
+09-20 15:47:13.507 00002 OMADM_OMADM: the GID1 : 6230
+09-20 15:47:13.514 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+09-20 15:47:13.516 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-20 15:47:13.526 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-20 15:47:13.530 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-20 15:47:13.531 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-20 15:47:13.533 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-20 15:47:13.535 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-20 15:47:13.536 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-20 15:47:13.537 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-20 15:47:13.538 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-20 15:47:13.558 00002 OMADM_OMADM: the imsi : 310240134758903
+09-20 15:47:13.562 00002 OMADM_OMADM: the GID1 : 6230
+09-20 15:47:13.565 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-20 15:47:13.566 00002 OMADM_OemService: onCreate
+09-20 15:47:13.574 00002 OMADM_OemService: onStartCommand
+09-20 15:47:13.579 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-20 15:47:41.278 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-20 15:47:41.285 00002 DmcReceiver: Boot complete event received
+09-20 15:47:41.287 00227 DmcReceiver: run() ======DmcReceiver notify lock
+09-20 15:47:41.292 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-20 15:47:41.292 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-20 15:47:41.301 00002 OMADM_OMADM: the imsi : 310240134758903
+09-20 15:47:41.305 00002 OMADM_OMADM: the GID1 : 6230
+09-20 15:47:41.306 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-20 15:47:41.308 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-20 15:47:41.309 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-20 15:47:41.311 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-20 15:47:41.312 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-20 15:47:41.313 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-20 15:47:41.314 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-23 00:57:12.835 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 00:57:12.870 00002 APP: onCreate() 
+09-23 00:57:12.872 00002 OMADM_OMADM: initAppData
+09-23 00:57:12.964 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-23 00:57:12.970 00002 OMADM_OemService: onCreate
+09-23 00:57:12.976 00002 OMADM_OemService: onStartCommand
+09-23 00:57:12.977 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-23 00:57:19.940 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 00:57:19.949 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-23 00:57:19.950 00002 OMADM_SimStateReceiver: the last number is null
+09-23 00:57:19.960 00002 OMADM_OMADM: the imsi : 310240134758903
+09-23 00:57:19.960 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-23 00:57:19.961 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-23 00:57:20.041 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-23 00:57:20.049 00002 OMADM_OMADM: the imsi : 310240134758903
+09-23 00:57:20.054 00002 OMADM_OMADM: the GID1 : 6230
+09-23 00:57:20.062 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+09-23 00:57:20.063 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-23 00:57:20.067 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-23 00:57:20.069 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-23 00:57:20.070 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-23 00:57:20.072 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-23 00:57:20.074 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-23 00:57:20.075 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-23 00:57:20.076 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-23 00:57:20.076 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-23 00:57:20.090 00002 OMADM_OMADM: the imsi : 310240134758903
+09-23 00:57:20.094 00002 OMADM_OMADM: the GID1 : 6230
+09-23 00:57:20.097 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-23 00:57:47.052 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 00:57:47.061 00002 DmcReceiver: Boot complete event received
+09-23 00:57:47.074 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 00:57:47.075 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-23 00:57:47.071 00216 DmcReceiver: run() ======DmcReceiver notify lock
+09-23 00:57:47.081 00002 OMADM_OMADM: the imsi : 310240134758903
+09-23 00:57:47.084 00002 OMADM_OMADM: the GID1 : 6230
+09-23 00:57:47.086 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-23 00:57:47.091 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-23 00:57:47.092 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-23 00:57:47.095 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-23 00:57:47.097 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-23 00:57:47.097 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-23 00:57:47.098 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-23 01:58:33.778 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 01:58:33.854 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 01:58:35.902 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 01:58:35.905 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 01:58:35.981 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 01:58:35.982 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 01:59:01.360 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 01:59:01.363 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 01:59:01.366 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 01:59:01.839 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 01:59:01.840 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 01:59:01.846 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 01:59:01.880 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 01:59:01.881 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 01:59:01.882 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:27:59.799 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:27:59.820 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:28:00.509 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:28:00.512 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:28:00.594 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:28:00.596 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:28:40.361 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:28:40.422 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:28:40.424 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:28:43.205 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:28:43.207 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:28:43.207 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:28:43.305 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:28:43.306 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:28:43.307 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:44:36.194 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:44:36.229 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:44:37.121 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:44:37.122 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:44:37.180 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:44:37.182 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:45:26.083 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:45:26.107 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:45:26.112 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:45:29.395 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:45:29.402 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:45:29.404 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:45:29.535 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:45:29.536 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:45:29.536 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:47:07.174 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:47:07.195 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:47:08.930 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:47:08.932 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:47:08.973 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:47:08.974 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 02:47:26.125 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:47:26.166 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:47:26.168 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:47:27.921 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:47:27.922 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:47:27.922 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 02:47:28.740 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 02:47:28.741 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 02:47:28.749 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 03:25:27.513 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 03:25:27.649 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 03:25:30.976 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 03:25:30.981 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 03:25:31.246 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 03:25:31.249 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 05:40:27.712 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 05:40:27.725 00002 APP: onCreate() 
+09-23 05:40:27.727 00002 OMADM_OMADM: initAppData
+09-23 05:40:27.776 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-23 05:40:27.781 00002 OMADM_OemService: onCreate
+09-23 05:40:27.785 00002 OMADM_OemService: onStartCommand
+09-23 05:40:27.786 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-23 05:40:35.366 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 05:40:35.377 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-23 05:40:35.379 00002 OMADM_SimStateReceiver: the last number is null
+09-23 05:40:35.385 00002 OMADM_OMADM: the imsi : 310240134758903
+09-23 05:40:35.386 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-23 05:40:35.386 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-23 05:40:35.422 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-23 05:40:35.428 00002 OMADM_OMADM: the imsi : 310240134758903
+09-23 05:40:35.431 00002 OMADM_OMADM: the GID1 : 6230
+09-23 05:40:35.437 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+09-23 05:40:35.438 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-23 05:40:35.443 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-23 05:40:35.445 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-23 05:40:35.446 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-23 05:40:35.447 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-23 05:40:35.449 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-23 05:40:35.450 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-23 05:40:35.450 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-23 05:40:35.451 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-23 05:40:35.455 00002 OMADM_OMADM: the imsi : 310240134758903
+09-23 05:40:35.457 00002 OMADM_OMADM: the GID1 : 6230
+09-23 05:40:35.460 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-23 05:41:00.625 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 05:41:00.633 00002 DmcReceiver: Boot complete event received
+09-23 05:41:00.644 00216 DmcReceiver: run() ======DmcReceiver notify lock
+09-23 05:41:00.646 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 05:41:00.647 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-23 05:41:00.656 00002 OMADM_OMADM: the imsi : 310240134758903
+09-23 05:41:00.660 00002 OMADM_OMADM: the GID1 : 6230
+09-23 05:41:00.661 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-23 05:41:00.662 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-23 05:41:00.663 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-23 05:41:00.665 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-23 05:41:00.666 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-23 05:41:00.666 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-23 05:41:00.666 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-23 21:32:47.698 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:32:47.763 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 21:32:51.052 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:32:51.054 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 21:32:52.231 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:32:52.233 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 21:33:00.837 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:33:00.839 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 21:33:00.869 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:33:00.871 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 21:33:00.917 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:33:00.919 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 21:35:50.042 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:35:50.057 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 21:35:50.070 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 21:35:51.186 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:35:51.188 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 21:35:51.189 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 21:35:52.044 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 21:35:52.047 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 21:35:52.048 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:08:09.887 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:08:09.906 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:08:11.830 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:08:11.831 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:08:11.995 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:08:11.996 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:08:14.092 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:08:14.096 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:08:14.127 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:08:14.128 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:08:14.246 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:08:14.247 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:10:19.833 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:19.859 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:10:19.861 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:10:21.301 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:21.303 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:10:21.306 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:10:21.491 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:21.493 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:10:21.494 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:10:23.197 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:23.200 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:10:23.249 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:23.249 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:10:23.443 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:23.453 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:10:28.755 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:28.756 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:10:28.795 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:28.796 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:10:28.841 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:10:28.844 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:12:15.919 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:12:15.961 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:12:15.962 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:12:16.728 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:12:16.730 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:12:16.731 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:12:16.784 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:12:16.786 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:12:16.788 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:46:41.132 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:46:41.172 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:46:44.165 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:46:44.166 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:46:44.465 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:46:44.467 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 22:46:47.551 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:46:47.553 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:46:48.220 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:46:48.222 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:46:48.265 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:46:48.268 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 22:50:52.258 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:50:52.265 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:50:52.266 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:50:54.097 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:50:54.098 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:50:54.102 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 22:50:55.319 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 22:50:55.321 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 22:50:55.322 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:01:30.404 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:01:30.431 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:01:33.080 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:01:33.082 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:01:33.138 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:01:33.140 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:01:51.668 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:01:51.675 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:01:51.684 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:01:51.734 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:01:51.737 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:01:51.739 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:01:51.813 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:01:51.815 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:01:51.816 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:02:42.816 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:02:42.827 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:02:42.878 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:02:42.879 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:02:42.906 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:02:42.907 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:03:19.847 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:19.874 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:03:19.875 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:03:22.165 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:22.167 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:03:22.168 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:03:22.368 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:22.373 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:03:22.374 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:03:22.433 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:22.434 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 23:03:22.470 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:22.471 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 23:03:22.540 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:22.546 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-23 23:03:22.582 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:22.583 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:03:22.602 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:22.603 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:03:22.629 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:03:22.631 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-23 23:05:04.637 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:05:04.668 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:05:04.671 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:05:06.006 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:05:06.008 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:05:06.009 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-23 23:05:06.790 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-23 23:05:06.791 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-23 23:05:06.792 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-24 18:29:25.184 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:29:25.218 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-24 18:29:27.191 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:29:27.193 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-24 18:29:27.420 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:29:27.421 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-24 18:29:27.725 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:29:27.726 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-24 18:29:27.751 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:29:27.752 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-24 18:29:27.778 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:29:27.779 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-24 18:35:37.969 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:35:37.979 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-24 18:35:37.981 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-24 18:35:38.050 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:35:38.052 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-24 18:35:38.053 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-24 18:35:38.134 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 18:35:38.135 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-24 18:35:38.137 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-24 21:03:08.562 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:03:08.602 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-24 21:03:10.304 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:03:10.306 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-24 21:03:13.444 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:03:13.450 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-24 21:03:13.905 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:03:13.906 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-24 21:03:13.956 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:03:13.959 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-24 21:03:14.012 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:03:14.013 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-24 21:33:54.818 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:33:54.840 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-24 21:33:54.841 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-24 21:33:57.475 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:33:57.477 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-24 21:33:57.479 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-24 21:33:57.650 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-24 21:33:57.651 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-24 21:33:57.652 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:02:11.530 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:02:11.572 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:02:14.431 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:02:14.433 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:02:16.849 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:02:16.851 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:02:18.162 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:02:18.163 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:02:18.164 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:02:18.814 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:02:18.815 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:02:18.816 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:02:18.869 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:02:18.870 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:02:18.872 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:03:16.231 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:03:16.232 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:03:17.535 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:03:17.536 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:03:18.391 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:03:18.393 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:03:19.632 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:03:19.639 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:03:19.640 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:03:19.780 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:03:19.781 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:03:19.782 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:03:19.867 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:03:19.875 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:03:19.877 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:50:22.522 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:50:22.572 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:50:25.099 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:50:25.101 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:50:26.935 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:50:26.936 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 00:50:26.981 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:50:26.982 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:50:26.983 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:50:27.058 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:50:27.060 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:50:27.061 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 00:50:27.105 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 00:50:27.106 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 00:50:27.107 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 01:49:37.120 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 01:49:37.143 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 01:49:38.838 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 01:49:38.842 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 01:49:40.852 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 01:49:40.854 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 01:49:41.315 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 01:49:41.316 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 01:49:41.353 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 01:49:41.354 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 01:49:41.430 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 01:49:41.432 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 02:05:23.189 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:23.230 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:23.232 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:26.660 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:26.663 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:26.664 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:29.465 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:29.473 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:29.484 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:30.470 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:30.471 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:32.227 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:32.229 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:32.295 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:32.296 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:32.898 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:32.899 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:32.900 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:32.936 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:32.937 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:32.938 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:32.998 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:32.999 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:33.000 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:33.112 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:33.116 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:33.151 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:33.153 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:33.218 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:33.220 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:38.330 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:38.339 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 02:05:38.884 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:38.888 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 02:05:39.261 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:39.262 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 02:05:39.695 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:39.695 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:39.696 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:39.745 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:39.746 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:39.747 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:39.826 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:39.828 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:05:39.829 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:05:48.399 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:48.403 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:48.463 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:48.469 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:48.541 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:48.542 00002 DmcReceiver: phone_state_changed() state = RINGING
+09-25 02:05:50.552 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:50.553 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 02:05:50.591 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:50.592 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 02:05:50.632 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:05:50.633 00002 DmcReceiver: phone_state_changed() state = OFFHOOK
+09-25 02:23:09.193 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:23:09.223 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:23:09.224 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:23:10.169 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:23:10.171 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:23:10.172 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 02:23:11.691 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 02:23:11.693 00002 DmcReceiver: phone_state_changed() state = IDLE
+09-25 02:23:11.695 00002 DmcReceiver: phone_state_changed() UCImple.SYNC_FLAG.notify()
+09-25 08:58:08.718 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 08:58:08.750 00002 APP: onCreate() 
+09-25 08:58:08.752 00002 OMADM_OMADM: initAppData
+09-25 08:58:08.861 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-25 08:58:08.864 00002 OMADM_OemService: onCreate
+09-25 08:58:08.877 00002 OMADM_OemService: onStartCommand
+09-25 08:58:08.878 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-25 08:58:16.420 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 08:58:16.450 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-25 08:58:16.454 00002 OMADM_SimStateReceiver: the last number is null
+09-25 08:58:16.460 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 08:58:16.461 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-25 08:58:16.462 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-25 08:58:16.582 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-25 08:58:16.590 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 08:58:16.615 00002 OMADM_OMADM: the GID1 : 6230
+09-25 08:58:16.627 00002 OMADM_OMADM: getDataEnabled was called, enable = false
+09-25 08:58:16.628 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-25 08:58:16.640 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-25 08:58:16.642 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-25 08:58:16.643 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-25 08:58:16.644 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-25 08:58:16.646 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-25 08:58:16.647 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-25 08:58:16.647 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-25 08:58:16.648 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-25 08:58:16.659 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 08:58:16.662 00002 OMADM_OMADM: the GID1 : 6230
+09-25 08:58:16.677 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 08:58:47.715 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 08:58:47.726 00002 DmcReceiver: Boot complete event received
+09-25 08:58:47.736 00216 DmcReceiver: run() ======DmcReceiver notify lock
+09-25 08:58:47.745 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 08:58:47.746 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-25 08:58:47.752 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 08:58:47.755 00002 OMADM_OMADM: the GID1 : 6230
+09-25 08:58:47.756 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-25 08:58:47.759 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 08:58:47.760 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 08:58:47.763 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-25 08:58:47.764 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 08:58:47.765 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-25 08:58:47.766 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-25 17:14:46.489 00220 OMADM_OemLoadApnIntentService: onHandleIntent action : yulong.intent.action.LOADAPN
+09-25 17:14:46.517 00220 OMADM_OMADM: saveApnsAfterCIDCSuccessByInsert start
+09-25 17:14:46.519 00220 OMADM_OMADM: getParamStoreValue item = lte_apn_0 ,defValue = 
+09-25 17:14:46.526 00220 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-25 17:14:46.536 00220 OMADM_OMADM: getParamStoreValue retValue = 
+09-25 17:14:46.538 00220 OMADM_OMADM: hasValidApnInParamStore index = 0 , apn = 
+09-25 17:14:46.538 00220 OMADM_OMADM: getParamStoreValue item = lte_apn_1 ,defValue = 
+09-25 17:14:46.543 00220 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-25 17:14:46.546 00220 OMADM_OMADM: getParamStoreValue retValue = 
+09-25 17:14:46.546 00220 OMADM_OMADM: hasValidApnInParamStore index = 1 , apn = 
+09-25 17:14:46.547 00220 OMADM_OMADM: getParamStoreValue item = lte_apn_2 ,defValue = 
+09-25 17:14:46.548 00220 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-25 17:14:46.551 00220 OMADM_OMADM: getParamStoreValue retValue = 
+09-25 17:14:46.552 00220 OMADM_OMADM: hasValidApnInParamStore index = 2 , apn = 
+09-25 17:14:46.552 00220 OMADM_OMADM: getParamStoreValue item = lte_apn_3 ,defValue = 
+09-25 17:14:46.557 00220 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-25 17:14:46.558 00220 OMADM_OMADM: getParamStoreValue retValue = 
+09-25 17:14:46.559 00220 OMADM_OMADM: hasValidApnInParamStore index = 3 , apn = 
+09-25 17:14:46.559 00220 OMADM_OMADM: getParamStoreValue item = lte_apn_4 ,defValue = 
+09-25 17:14:46.561 00220 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-25 17:14:46.562 00220 OMADM_OMADM: getParamStoreValue retValue = 
+09-25 17:14:46.563 00220 OMADM_OMADM: hasValidApnInParamStore index = 4 , apn = 
+09-25 17:14:46.564 00220 OMADM_OMADM: getParamStoreValue item = lte_apn_5 ,defValue = 
+09-25 17:14:46.566 00220 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-25 17:14:46.568 00220 OMADM_OMADM: getParamStoreValue retValue = 
+09-25 17:14:46.568 00220 OMADM_OMADM: hasValidApnInParamStore index = 5 , apn = 
+09-25 17:14:46.569 00220 OMADM_OMADM: getParamStoreValue item = lte_apn_6 ,defValue = 
+09-25 17:14:46.571 00220 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-25 17:14:46.572 00220 OMADM_OMADM: getParamStoreValue retValue = 
+09-25 17:14:46.573 00220 OMADM_OMADM: hasValidApnInParamStore index = 6 , apn = 
+09-25 17:14:46.574 00220 OMADM_OMADM: getParamStoreValue item = lte_apn_7 ,defValue = 
+09-25 17:14:46.575 00220 OMADM_OMADM: getParamStoreValue updateValue = 0
+09-25 17:14:46.577 00220 OMADM_OMADM: getParamStoreValue retValue = 
+09-25 17:14:46.577 00220 OMADM_OMADM: hasValidApnInParamStore index = 7 , apn = 
+09-25 17:14:46.578 00220 OMADM_OMADM: hasValidApnInParamStore valid count = 0
+09-25 17:14:46.578 00220 OMADM_OMADM: saveApnsAfterCIDCSuccessByInsert return because of no valid apns
+09-25 17:14:46.578 00220 OMADM_OemLoadApnIntentService: onHandleIntent loadAPN complete
+09-25 17:14:46.579 00220 OMADM_OemLoadApnIntentService: saveMmscConfig: start
+09-25 17:14:46.580 00220 OMADM_OemLoadApnIntentService: Chameleon has no data, use default proxy ip
+09-25 17:14:46.581 00220 OMADM_OemLoadApnIntentService: Chameleon has no data, use default proxy port
+09-25 17:14:46.582 00220 OMADM_OemLoadApnIntentService: saveMmscConfig: url = http://sprboost.mmsmvno.com/mms/wapenc, IP =null, Port =null
+09-25 17:14:46.597 00220 OMADM_OemLoadApnIntentService: saveMmscConfig: complete
+09-25 21:50:56.192 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 21:50:56.224 00002 APP: onCreate() 
+09-25 21:50:56.226 00002 OMADM_OMADM: initAppData
+09-25 21:50:56.316 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-25 21:50:56.319 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 21:50:56.345 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-25 21:50:56.348 00002 OMADM_SimStateReceiver: the last number is null
+09-25 21:50:56.355 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 21:50:56.356 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-25 21:50:56.357 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-25 21:50:56.397 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-25 21:50:56.419 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 21:50:56.435 00002 OMADM_OMADM: the GID1 : 6230
+09-25 21:50:56.452 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-25 21:50:56.467 00002 OMADM_CheckActivity: the last number is null
+09-25 21:50:56.473 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 21:50:56.475 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 21:50:56.476 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-25 21:50:56.477 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-25 21:50:56.486 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-25 21:50:56.488 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-25 21:50:56.489 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-25 21:50:56.507 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-25 21:50:56.510 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-25 21:50:56.511 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-25 21:50:56.512 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-25 21:50:56.512 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-25 21:50:56.522 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 21:50:56.532 00002 OMADM_OMADM: the GID1 : 6230
+09-25 21:50:56.533 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 21:50:56.535 00002 OMADM_OemService: onCreate
+09-25 21:50:56.571 00002 OMADM_OemService: onStartCommand
+09-25 21:50:56.574 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-25 21:51:33.139 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 21:51:33.146 00002 DmcReceiver: Boot complete event received
+09-25 21:51:33.176 00212 DmcReceiver: run() ======DmcReceiver notify lock
+09-25 21:51:33.186 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 21:51:33.188 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-25 21:51:33.207 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 21:51:33.211 00002 OMADM_OMADM: the GID1 : 6230
+09-25 21:51:33.211 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-25 21:51:33.212 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 21:51:33.213 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 21:51:33.215 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-25 21:51:33.216 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 21:51:33.217 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-25 21:51:33.218 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
+09-25 22:38:29.986 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 22:38:30.009 00002 APP: onCreate() 
+09-25 22:38:30.013 00002 OMADM_OMADM: initAppData
+09-25 22:38:30.086 00002 RemindMe: restoreRemindMe() End of input at character 0 of 
+09-25 22:38:30.091 00002 OMADM_OemService: onCreate
+09-25 22:38:30.099 00002 OMADM_OemService: onStartCommand
+09-25 22:38:30.100 00002 OMADM_OemService: OemBroadcastReceiver action = null
+09-25 22:38:36.764 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 22:38:36.780 00002 OMADM_SimStateReceiver: state = 5, simei = 8901240132747589036
+09-25 22:38:36.803 00002 OMADM_SimStateReceiver: the last number is null
+09-25 22:38:36.811 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 22:38:36.813 00002 OMADM_OMADM: isUsingSprintSimCard: mccmnc is  , isUsingSprintSimcard : false
+09-25 22:38:36.814 00002 OMADM_OMADM: isSimCardInDefaultBrand was called
+09-25 22:38:36.947 00002 OMADM_OMADM: isUsingSprintSimCard:isDefaultBrandSimcard false
+09-25 22:38:36.959 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 22:38:36.968 00002 OMADM_OMADM: the GID1 : 6230
+09-25 22:38:36.975 00002 OMADM_OMADM: getDataEnabled was called, enable = true
+09-25 22:38:37.026 00002 OMADM_CheckActivity: the last number is null
+09-25 22:38:37.042 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 22:38:37.049 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 22:38:37.058 00002 OMADM_OMADM: getOrangeSmfSkipFlag oma.dm.debug.orange.smf = true
+09-25 22:38:37.059 00002 OMADM_OMADM: getParamStoreValue item = orangesimcard_radio_version ,defValue = 
+09-25 22:38:37.071 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-25 22:38:37.092 00002 OMADM_OMADM: getParamStoreValue retValue = 3706AS.SPRINT.210625.0S
+09-25 22:38:37.094 00002 OMADM_OMADM: getParamStoreValue item = MccMnc ,defValue = 
+09-25 22:38:37.100 00002 OMADM_OMADM: getParamStoreValue updateValue = 1
+09-25 22:38:37.107 00002 OMADM_OMADM: getParamStoreValue retValue = 310240
+09-25 22:38:37.108 00002 OMADM_SimStateReceiver: SimStateReceiver version == 3706AS.SPRINT.210625.0S
+09-25 22:38:37.109 00002 OMADM_SimStateReceiver: SimStateReceiver mccMnc == 310240
+09-25 22:38:37.110 00002 OMADM_SimStateReceiver: SimStateReceiver Build.DISPLAY == 3706AS.SPRINT.210625.0S
+09-25 22:38:37.131 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 22:38:37.142 00002 OMADM_OMADM: the GID1 : 6230
+09-25 22:38:37.143 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 22:39:00.200 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 22:39:00.205 00002 DmcReceiver: Boot complete event received
+09-25 22:39:00.208 00227 DmcReceiver: run() ======DmcReceiver notify lock
+09-25 22:39:00.265 00002 OMADM_OMADM: isOwnerUser myUserId : 0 , isSystem() : true
+09-25 22:39:00.266 00002 OMADM_OemReceiver: action = android.intent.action.BOOT_COMPLETED
+09-25 22:39:00.274 00002 OMADM_OMADM: the imsi : 310240134758903
+09-25 22:39:00.276 00002 OMADM_OMADM: the GID1 : 6230
+09-25 22:39:00.278 00002 OMADM_OemReceiver: Boost MVNO Check for OTA Update
+09-25 22:39:00.279 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 22:39:00.280 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 22:39:00.284 00002 OMADM_OMADM: storedSofVersion==3706AS.SPRINT.210625.0S;curSofVersion==3706AS.SPRINT.210625.0S
+09-25 22:39:00.286 00002 OMADM_OMADM:   isSetupComplete true, deviceprovisioned : true
+09-25 22:39:00.287 00002 OMADM_OMADM: checkIfReportingUpdateStatusToServer needReporting = false
+09-25 22:39:00.288 00002 OMADM_OemReceiver: Boost MVNO need do CI-FUMO for OTA Update
